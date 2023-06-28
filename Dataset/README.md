@@ -37,10 +37,10 @@
   * train set
     * **repo_info_train_code_embeddings.pkl** --> 1hMYFBrp8jNjBgYKXTRY6l7Fx7phH0BH1
     * **repo_info_train_doc_embeddings.pkl** --> 167m3OZrR4G09rAtVWpYXC5JfQJmWKvYg
-    * **repo_info_train_structure_embeddings.pkl** --> 1TcoNi3xF5NPv4un3zHcL_oldPnZE2VAi
-    * **repo_info_train_requirements_embeddings.pkl** --> 1XL5rfrf8QMdcUbRswhe-8vkOhXgnUEKZ
-    * **repo_info_train_readme_embeddings.pkl** --> 1UexnsbBoOzKTmS3wuiVJvJGnZ_EaA1C7
-    * **repo_info_train_embeddings.pkl** --> link
+    * **repo_info_train_structure_embeddings.pkl** --> 1jSVg3pzW4eUcV9aPDicff7IGf0ktjr2t
+    * **repo_info_train_requirements_embeddings.pkl** --> 1ycBYAVHjFGbWWbf93dRZo4CmKXRYY77X
+    * **repo_info_train_readme_embeddings.pkl** --> 1Eke8-Ctxql-xdf5R9R3mnEbyeW5oRzFv
+    * **repo_info_train_embeddings.pkl** --> 1qgd2F5CxXJ27u0F-Tix96uWlBSNK7GcJ
   * validation set
     * **repo_info_validation_code_embeddings.pkl** --> link
     * **repo_info_validation_doc_embeddings.pkl** --> link
