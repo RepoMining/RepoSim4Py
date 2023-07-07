@@ -1,19 +1,19 @@
 # RepoSim4Py
 A project for determining the similarity of python repositories based on embedding approach
 
-## TODO
+## Training set----TODO
 1. Codes
-   - GraphCodeBERT
+   - GraphCodeBERT (doing)
 2. Docs
-   - GraphCodeBERT
+   - GraphCodeBERT (done)
 3. Structure
-   - doc2vec 
-   - DistilBERT
+   - doc2vec (done)
+   - DistilBERT (cannot, because of tokenizer)
 4. Requirements
-   - doc2vec
-   - DistilBERT
+   - doc2vec (done)
+   - DistilBERT (done)
 5. Readme
-   - doc2vec
-   - DistilBERT
+   - doc2vec (done)
+   - DistilBERT (done)
 * Format
   * Embedding list

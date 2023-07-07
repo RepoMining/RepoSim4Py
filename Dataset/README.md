@@ -21,7 +21,7 @@
   * readme
   * topic
 * We finally generated **three** **pickle** **files** of **train, validation, test set**.
-  * **repo_info_train.pkl** --> 1sJDBLvVRvl4Sx0ICGuoM27pREIg0M756
+  * **repo_info_train.pkl** --> 13Z-ReDj4QcwlfvIgUlL6MNE5W2dcPmLr
   * **repo_info_validation.pkl** --> link
   * **repo_info_test.pkl** --> link
 * You can read each _**pickle**_ file, and using the following way to access each feature of repository. For example, using **"xxx"** to represent a data set:
@@ -35,12 +35,12 @@
 ### Repository embedding information
 * Based on **Repository information**, we also generated a series of **pickle** files for describing **embedding** information.
   * train set
-    * **repo_info_train_code_embeddings.pkl** --> 1hMYFBrp8jNjBgYKXTRY6l7Fx7phH0BH1
-    * **repo_info_train_doc_embeddings.pkl** --> 167m3OZrR4G09rAtVWpYXC5JfQJmWKvYg
-    * **repo_info_train_structure_embeddings.pkl** --> 1jSVg3pzW4eUcV9aPDicff7IGf0ktjr2t
-    * **repo_info_train_requirements_embeddings.pkl** --> 1ycBYAVHjFGbWWbf93dRZo4CmKXRYY77X
+    * **repo_info_train_code_embeddings.pkl** --> link
+    * **repo_info_train_doc_embeddings.pkl** --> 19A75A4XeOFL6wj7SHM2_mA8Nf398PcxW
+    * **repo_info_train_structure_embeddings.pkl** --> 18rUC069v0x8KwdPZn1o0ptKE4I4a-Yxm
+    * **repo_info_train_requirements_embeddings.pkl** --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
     * **repo_info_train_readme_embeddings.pkl** --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
-    * **repo_info_train_embeddings.pkl** --> 1qgd2F5CxXJ27u0F-Tix96uWlBSNK7GcJ
+    * **repo_info_train_embeddings.pkl** --> link
   * validation set
     * **repo_info_validation_code_embeddings.pkl** --> link
     * **repo_info_validation_doc_embeddings.pkl** --> link
