@@ -35,12 +35,12 @@
 ### Repository embedding information
 * Based on **Repository information**, we also generated a series of **pickle** files for describing **embedding** information.
   * train set
-    * **repo_info_train_code_embeddings.pkl** --> link
+    * **repo_info_train_code_embeddings.pkl** --> 1-HkKRI2PLxoTnUOJryONkqtGfvk4Y-xm
     * **repo_info_train_doc_embeddings.pkl** --> 19A75A4XeOFL6wj7SHM2_mA8Nf398PcxW
     * **repo_info_train_structure_embeddings.pkl** --> 18rUC069v0x8KwdPZn1o0ptKE4I4a-Yxm
     * **repo_info_train_requirements_embeddings.pkl** --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
     * **repo_info_train_readme_embeddings.pkl** --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
-    * **repo_info_train_embeddings.pkl** --> link
+    * **repo_info_train_embeddings.pkl** --> 1gYpZW-rWdyOskNgbwDrmOg_Ij4nMJ6_V
   * validation set
     * **repo_info_validation_code_embeddings.pkl** --> link
     * **repo_info_validation_doc_embeddings.pkl** --> link

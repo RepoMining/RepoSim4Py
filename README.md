@@ -3,7 +3,7 @@ A project for determining the similarity of python repositories based on embeddi
 
 ## Training set----TODO
 1. Codes
-   - GraphCodeBERT (doing)
+   - GraphCodeBERT (done)
 2. Docs
    - GraphCodeBERT (done)
 3. Structure
