@@ -1,0 +1,821 @@
+,repo1,repo2,topic1,topic2,Lazyhope/unixcoder-nine-advtest
+0,ellisonleao/pyshorteners,sloria/doitlive,URL Manipulation,Productivity CLI Tools,0.27823081612586975
+1,ellisonleao/pyshorteners,sebastien/cuisine,URL Manipulation,SSH-style Deployment,0.10211888700723648
+2,ellisonleao/pyshorteners,lepture/authlib,URL Manipulation,OAuth,0.35568392276763916
+3,ellisonleao/pyshorteners,inducer/pudb,URL Manipulation,pdb-like Debugger,0.1716098189353943
+4,ellisonleao/pyshorteners,uber/pyflame,URL Manipulation,Profiler,0.1686246693134308
+5,ellisonleao/pyshorteners,aws/aws-cli,URL Manipulation,CLI Enhancements,0.3250538408756256
+6,ellisonleao/pyshorteners,DamnWidget/anaconda,URL Manipulation,Sublime Text,0.12333467602729797
+7,ellisonleao/pyshorteners,pykong/copier,URL Manipulation,Productivity CLI Tools,0.21015523374080658
+8,ellisonleao/pyshorteners,FactoryBoy/factory_boy,URL Manipulation,Object Factories,0.2678949236869812
+9,ellisonleao/pyshorteners,pynamodb/PynamoDB,URL Manipulation,NoSQL Databases,0.24743430316448212
+10,ellisonleao/pyshorteners,jschneier/django-storages,URL Manipulation,Web Asset Management,0.3064767122268677
+11,ellisonleao/pyshorteners,robotframework/robotframework,URL Manipulation,Testing Frameworks,0.24690431356430054
+12,ellisonleao/pyshorteners,mininet/mininet,URL Manipulation,Network Virtualization,0.17044293880462646
+13,ellisonleao/pyshorteners,ztane/python-Levenshtein,URL Manipulation,Specific Formats Processing - General,0.06999995559453964
+14,ellisonleao/pyshorteners,audreyr/cookiecutter,URL Manipulation,Productivity CLI Tools,0.2759227454662323
+15,ellisonleao/pyshorteners,google/python-fire,URL Manipulation,Command-line Application Development,0.2334257811307907
+16,ellisonleao/pyshorteners,pycco-docs/pycco,URL Manipulation,Documentation,0.22630222141742706
+17,ellisonleao/pyshorteners,rossgoodwin/hmap,URL Manipulation,Image Processing,0.009184392169117928
+18,ellisonleao/pyshorteners,idan/oauthlib,URL Manipulation,OAuth,0.4183627963066101
+19,ellisonleao/pyshorteners,paramiko/paramiko,URL Manipulation,Cryptography,0.22838854789733887
+20,ellisonleao/pyshorteners,kevin1024/vcrpy,URL Manipulation,Mock,0.42910438776016235
+21,ellisonleao/pyshorteners,platformio/platformio-core,URL Manipulation,Build Tools,0.13131901621818542
+22,ellisonleao/pyshorteners,graphql-python/graphene,URL Manipulation,GraphQL,0.22254157066345215
+23,ellisonleao/pyshorteners,klen/mixer,URL Manipulation,Object Factories,0.18516935408115387
+24,ellisonleao/pyshorteners,seatgeek/sixpack,URL Manipulation,GUI / Web Testing,0.3581480085849762
+25,ellisonleao/pyshorteners,bpython/bpython,URL Manipulation,Interactive Interpreter,0.2293880581855774
+26,ellisonleao/pyshorteners,dfunckt/django-rules,URL Manipulation,Permissions,0.24347373843193054
+27,ellisonleao/pyshorteners,coleifer/peewee,URL Manipulation,Relational Databases,0.21416354179382324
+28,ellisonleao/pyshorteners,pythonnet/pythonnet,URL Manipulation,Microsoft Windows,0.24427495896816254
+29,ellisonleao/pyshorteners,python/typeshed,URL Manipulation,Static Type Checkers,0.08787769824266434
+30,ellisonleao/pyshorteners,KoffeinFlummi/Chronyk,URL Manipulation,Date and Time,0.16280189156532288
+31,ellisonleao/pyshorteners,isnowfy/snownlp,URL Manipulation,Natural Language Processing,-0.0253053680062294
+32,ellisonleao/pyshorteners,alecthomas/voluptuous,URL Manipulation,Data Validation,0.11619756370782852
+33,ellisonleao/pyshorteners,spulec/freezegun,URL Manipulation,Mock,0.07524857670068741
+34,ellisonleao/pyshorteners,maxmind/geoip-api-python,URL Manipulation,Geolocation,0.24086527526378632
+35,ellisonleao/pyshorteners,pallets/werkzeug,URL Manipulation,WSGI Servers,0.35415467619895935
+36,ellisonleao/pyshorteners,nvbn/thefuck,URL Manipulation,Productivity CLI Tools,0.2569034993648529
+37,ellisonleao/pyshorteners,benfred/implicit,URL Manipulation,Recommender Systems,0.020724721252918243
+38,ellisonleao/pyshorteners,erikrose/more-itertools,URL Manipulation,Functional Programming,0.2154887169599533
+39,ellisonleao/pyshorteners,PyMySQL/mysqlclient-python,URL Manipulation,MySQL,0.1688825488090515
+40,sloria/doitlive,sebastien/cuisine,Productivity CLI Tools,SSH-style Deployment,0.4342358112335205
+41,sloria/doitlive,lepture/authlib,Productivity CLI Tools,OAuth,0.2151828408241272
+42,sloria/doitlive,inducer/pudb,Productivity CLI Tools,pdb-like Debugger,0.6880778670310974
+43,sloria/doitlive,uber/pyflame,Productivity CLI Tools,Profiler,0.3562207520008087
+44,sloria/doitlive,aws/aws-cli,Productivity CLI Tools,CLI Enhancements,0.574253261089325
+45,sloria/doitlive,DamnWidget/anaconda,Productivity CLI Tools,Sublime Text,0.37619727849960327
+46,sloria/doitlive,pykong/copier,Productivity CLI Tools,Productivity CLI Tools,0.5142824649810791
+47,sloria/doitlive,FactoryBoy/factory_boy,Productivity CLI Tools,Object Factories,0.3984476327896118
+48,sloria/doitlive,pynamodb/PynamoDB,Productivity CLI Tools,NoSQL Databases,0.3302937150001526
+49,sloria/doitlive,jschneier/django-storages,Productivity CLI Tools,Web Asset Management,0.40612760186195374
+50,sloria/doitlive,robotframework/robotframework,Productivity CLI Tools,Testing Frameworks,0.5709654688835144
+51,sloria/doitlive,mininet/mininet,Productivity CLI Tools,Network Virtualization,0.42833849787712097
+52,sloria/doitlive,ztane/python-Levenshtein,Productivity CLI Tools,Specific Formats Processing - General,0.13461442291736603
+53,sloria/doitlive,audreyr/cookiecutter,Productivity CLI Tools,Productivity CLI Tools,0.5968973636627197
+54,sloria/doitlive,google/python-fire,Productivity CLI Tools,Command-line Application Development,0.608417272567749
+55,sloria/doitlive,pycco-docs/pycco,Productivity CLI Tools,Documentation,0.3534019887447357
+56,sloria/doitlive,rossgoodwin/hmap,Productivity CLI Tools,Image Processing,0.0682404413819313
+57,sloria/doitlive,idan/oauthlib,Productivity CLI Tools,OAuth,0.25525328516960144
+58,sloria/doitlive,paramiko/paramiko,Productivity CLI Tools,Cryptography,0.5601877570152283
+59,sloria/doitlive,kevin1024/vcrpy,Productivity CLI Tools,Mock,0.4165947735309601
+60,sloria/doitlive,platformio/platformio-core,Productivity CLI Tools,Build Tools,0.45597580075263977
+61,sloria/doitlive,graphql-python/graphene,Productivity CLI Tools,GraphQL,0.3055267035961151
+62,sloria/doitlive,klen/mixer,Productivity CLI Tools,Object Factories,0.3134298026561737
+63,sloria/doitlive,seatgeek/sixpack,Productivity CLI Tools,GUI / Web Testing,0.41233688592910767
+64,sloria/doitlive,bpython/bpython,Productivity CLI Tools,Interactive Interpreter,0.7567933797836304
+65,sloria/doitlive,dfunckt/django-rules,Productivity CLI Tools,Permissions,0.38980379700660706
+66,sloria/doitlive,coleifer/peewee,Productivity CLI Tools,Relational Databases,0.373592346906662
+67,sloria/doitlive,pythonnet/pythonnet,Productivity CLI Tools,Microsoft Windows,0.4657875597476959
+68,sloria/doitlive,python/typeshed,Productivity CLI Tools,Static Type Checkers,0.32101714611053467
+69,sloria/doitlive,KoffeinFlummi/Chronyk,Productivity CLI Tools,Date and Time,0.3219640552997589
+70,sloria/doitlive,isnowfy/snownlp,Productivity CLI Tools,Natural Language Processing,-0.026574216783046722
+71,sloria/doitlive,alecthomas/voluptuous,Productivity CLI Tools,Data Validation,0.06823612004518509
+72,sloria/doitlive,spulec/freezegun,Productivity CLI Tools,Mock,0.27584439516067505
+73,sloria/doitlive,maxmind/geoip-api-python,Productivity CLI Tools,Geolocation,0.25379452109336853
+74,sloria/doitlive,pallets/werkzeug,Productivity CLI Tools,WSGI Servers,0.42328953742980957
+75,sloria/doitlive,nvbn/thefuck,Productivity CLI Tools,Productivity CLI Tools,0.7128052115440369
+76,sloria/doitlive,benfred/implicit,Productivity CLI Tools,Recommender Systems,0.0415165089070797
+77,sloria/doitlive,erikrose/more-itertools,Productivity CLI Tools,Functional Programming,0.37948960065841675
+78,sloria/doitlive,PyMySQL/mysqlclient-python,Productivity CLI Tools,MySQL,0.40468794107437134
+79,sebastien/cuisine,lepture/authlib,SSH-style Deployment,OAuth,0.2975262403488159
+80,sebastien/cuisine,inducer/pudb,SSH-style Deployment,pdb-like Debugger,0.3048691749572754
+81,sebastien/cuisine,uber/pyflame,SSH-style Deployment,Profiler,0.10220638662576675
+82,sebastien/cuisine,aws/aws-cli,SSH-style Deployment,CLI Enhancements,0.3674412965774536
+83,sebastien/cuisine,DamnWidget/anaconda,SSH-style Deployment,Sublime Text,0.27677121758461
+84,sebastien/cuisine,pykong/copier,SSH-style Deployment,Productivity CLI Tools,0.34092167019844055
+85,sebastien/cuisine,FactoryBoy/factory_boy,SSH-style Deployment,Object Factories,0.08060827851295471
+86,sebastien/cuisine,pynamodb/PynamoDB,SSH-style Deployment,NoSQL Databases,0.15257449448108673
+87,sebastien/cuisine,jschneier/django-storages,SSH-style Deployment,Web Asset Management,0.4086266756057739
+88,sebastien/cuisine,robotframework/robotframework,SSH-style Deployment,Testing Frameworks,0.27540701627731323
+89,sebastien/cuisine,mininet/mininet,SSH-style Deployment,Network Virtualization,0.38994941115379333
+90,sebastien/cuisine,ztane/python-Levenshtein,SSH-style Deployment,Specific Formats Processing - General,-0.044491589069366455
+91,sebastien/cuisine,audreyr/cookiecutter,SSH-style Deployment,Productivity CLI Tools,0.380897581577301
+92,sebastien/cuisine,google/python-fire,SSH-style Deployment,Command-line Application Development,0.2330363690853119
+93,sebastien/cuisine,pycco-docs/pycco,SSH-style Deployment,Documentation,0.17206521332263947
+94,sebastien/cuisine,rossgoodwin/hmap,SSH-style Deployment,Image Processing,-0.08846665173768997
+95,sebastien/cuisine,idan/oauthlib,SSH-style Deployment,OAuth,0.23804189264774323
+96,sebastien/cuisine,paramiko/paramiko,SSH-style Deployment,Cryptography,0.5562925934791565
+97,sebastien/cuisine,kevin1024/vcrpy,SSH-style Deployment,Mock,0.23354685306549072
+98,sebastien/cuisine,platformio/platformio-core,SSH-style Deployment,Build Tools,0.5833748579025269
+99,sebastien/cuisine,graphql-python/graphene,SSH-style Deployment,GraphQL,0.15689973533153534
+100,sebastien/cuisine,klen/mixer,SSH-style Deployment,Object Factories,0.07392100989818573
+101,sebastien/cuisine,seatgeek/sixpack,SSH-style Deployment,GUI / Web Testing,0.15483763813972473
+102,sebastien/cuisine,bpython/bpython,SSH-style Deployment,Interactive Interpreter,0.2681978940963745
+103,sebastien/cuisine,dfunckt/django-rules,SSH-style Deployment,Permissions,0.26670584082603455
+104,sebastien/cuisine,coleifer/peewee,SSH-style Deployment,Relational Databases,0.13417017459869385
+105,sebastien/cuisine,pythonnet/pythonnet,SSH-style Deployment,Microsoft Windows,0.13249582052230835
+106,sebastien/cuisine,python/typeshed,SSH-style Deployment,Static Type Checkers,0.2211935818195343
+107,sebastien/cuisine,KoffeinFlummi/Chronyk,SSH-style Deployment,Date and Time,0.09730713814496994
+108,sebastien/cuisine,isnowfy/snownlp,SSH-style Deployment,Natural Language Processing,-0.15570685267448425
+109,sebastien/cuisine,alecthomas/voluptuous,SSH-style Deployment,Data Validation,0.0974278673529625
+110,sebastien/cuisine,spulec/freezegun,SSH-style Deployment,Mock,0.1976783573627472
+111,sebastien/cuisine,maxmind/geoip-api-python,SSH-style Deployment,Geolocation,0.0868166834115982
+112,sebastien/cuisine,pallets/werkzeug,SSH-style Deployment,WSGI Servers,0.3027542233467102
+113,sebastien/cuisine,nvbn/thefuck,SSH-style Deployment,Productivity CLI Tools,0.3860664665699005
+114,sebastien/cuisine,benfred/implicit,SSH-style Deployment,Recommender Systems,-0.006840243935585022
+115,sebastien/cuisine,erikrose/more-itertools,SSH-style Deployment,Functional Programming,0.00832328014075756
+116,sebastien/cuisine,PyMySQL/mysqlclient-python,SSH-style Deployment,MySQL,0.29704320430755615
+117,lepture/authlib,inducer/pudb,OAuth,pdb-like Debugger,0.10216814279556274
+118,lepture/authlib,uber/pyflame,OAuth,Profiler,0.02256011962890625
+119,lepture/authlib,aws/aws-cli,OAuth,CLI Enhancements,0.4325532615184784
+120,lepture/authlib,DamnWidget/anaconda,OAuth,Sublime Text,0.18704602122306824
+121,lepture/authlib,pykong/copier,OAuth,Productivity CLI Tools,0.16629382967948914
+122,lepture/authlib,FactoryBoy/factory_boy,OAuth,Object Factories,0.2659383714199066
+123,lepture/authlib,pynamodb/PynamoDB,OAuth,NoSQL Databases,0.36892569065093994
+124,lepture/authlib,jschneier/django-storages,OAuth,Web Asset Management,0.39606016874313354
+125,lepture/authlib,robotframework/robotframework,OAuth,Testing Frameworks,0.3050268888473511
+126,lepture/authlib,mininet/mininet,OAuth,Network Virtualization,0.06667132675647736
+127,lepture/authlib,ztane/python-Levenshtein,OAuth,Specific Formats Processing - General,-0.02716284990310669
+128,lepture/authlib,audreyr/cookiecutter,OAuth,Productivity CLI Tools,0.2814457416534424
+129,lepture/authlib,google/python-fire,OAuth,Command-line Application Development,0.20905454456806183
+130,lepture/authlib,pycco-docs/pycco,OAuth,Documentation,0.06683861464262009
+131,lepture/authlib,rossgoodwin/hmap,OAuth,Image Processing,-0.11893772333860397
+132,lepture/authlib,idan/oauthlib,OAuth,OAuth,0.937532901763916
+133,lepture/authlib,paramiko/paramiko,OAuth,Cryptography,0.5556182265281677
+134,lepture/authlib,kevin1024/vcrpy,OAuth,Mock,0.4275248646736145
+135,lepture/authlib,platformio/platformio-core,OAuth,Build Tools,0.2630942463874817
+136,lepture/authlib,graphql-python/graphene,OAuth,GraphQL,0.34488391876220703
+137,lepture/authlib,klen/mixer,OAuth,Object Factories,0.2235572338104248
+138,lepture/authlib,seatgeek/sixpack,OAuth,GUI / Web Testing,0.3644843101501465
+139,lepture/authlib,bpython/bpython,OAuth,Interactive Interpreter,0.17629575729370117
+140,lepture/authlib,dfunckt/django-rules,OAuth,Permissions,0.3903907835483551
+141,lepture/authlib,coleifer/peewee,OAuth,Relational Databases,0.29508939385414124
+142,lepture/authlib,pythonnet/pythonnet,OAuth,Microsoft Windows,0.25097429752349854
+143,lepture/authlib,python/typeshed,OAuth,Static Type Checkers,0.16399699449539185
+144,lepture/authlib,KoffeinFlummi/Chronyk,OAuth,Date and Time,0.1742403656244278
+145,lepture/authlib,isnowfy/snownlp,OAuth,Natural Language Processing,-0.11246293783187866
+146,lepture/authlib,alecthomas/voluptuous,OAuth,Data Validation,0.21997962892055511
+147,lepture/authlib,spulec/freezegun,OAuth,Mock,0.16412995755672455
+148,lepture/authlib,maxmind/geoip-api-python,OAuth,Geolocation,0.22129987180233002
+149,lepture/authlib,pallets/werkzeug,OAuth,WSGI Servers,0.4818466007709503
+150,lepture/authlib,nvbn/thefuck,OAuth,Productivity CLI Tools,0.10815204679965973
+151,lepture/authlib,benfred/implicit,OAuth,Recommender Systems,0.05729701370000839
+152,lepture/authlib,erikrose/more-itertools,OAuth,Functional Programming,0.12010037899017334
+153,lepture/authlib,PyMySQL/mysqlclient-python,OAuth,MySQL,0.3173118233680725
+154,inducer/pudb,uber/pyflame,pdb-like Debugger,Profiler,0.33583876490592957
+155,inducer/pudb,aws/aws-cli,pdb-like Debugger,CLI Enhancements,0.4077880382537842
+156,inducer/pudb,DamnWidget/anaconda,pdb-like Debugger,Sublime Text,0.5169838070869446
+157,inducer/pudb,pykong/copier,pdb-like Debugger,Productivity CLI Tools,0.3747863471508026
+158,inducer/pudb,FactoryBoy/factory_boy,pdb-like Debugger,Object Factories,0.4648628234863281
+159,inducer/pudb,pynamodb/PynamoDB,pdb-like Debugger,NoSQL Databases,0.3642125427722931
+160,inducer/pudb,jschneier/django-storages,pdb-like Debugger,Web Asset Management,0.3438165783882141
+161,inducer/pudb,robotframework/robotframework,pdb-like Debugger,Testing Frameworks,0.6314875483512878
+162,inducer/pudb,mininet/mininet,pdb-like Debugger,Network Virtualization,0.4134038984775543
+163,inducer/pudb,ztane/python-Levenshtein,pdb-like Debugger,Specific Formats Processing - General,0.17500661313533783
+164,inducer/pudb,audreyr/cookiecutter,pdb-like Debugger,Productivity CLI Tools,0.4553072154521942
+165,inducer/pudb,google/python-fire,pdb-like Debugger,Command-line Application Development,0.6587867140769958
+166,inducer/pudb,pycco-docs/pycco,pdb-like Debugger,Documentation,0.4227539896965027
+167,inducer/pudb,rossgoodwin/hmap,pdb-like Debugger,Image Processing,0.11802772432565689
+168,inducer/pudb,idan/oauthlib,pdb-like Debugger,OAuth,0.17219719290733337
+169,inducer/pudb,paramiko/paramiko,pdb-like Debugger,Cryptography,0.47878146171569824
+170,inducer/pudb,kevin1024/vcrpy,pdb-like Debugger,Mock,0.34205877780914307
+171,inducer/pudb,platformio/platformio-core,pdb-like Debugger,Build Tools,0.36552828550338745
+172,inducer/pudb,graphql-python/graphene,pdb-like Debugger,GraphQL,0.41305869817733765
+173,inducer/pudb,klen/mixer,pdb-like Debugger,Object Factories,0.29917338490486145
+174,inducer/pudb,seatgeek/sixpack,pdb-like Debugger,GUI / Web Testing,0.2279198318719864
+175,inducer/pudb,bpython/bpython,pdb-like Debugger,Interactive Interpreter,0.7778090834617615
+176,inducer/pudb,dfunckt/django-rules,pdb-like Debugger,Permissions,0.35960447788238525
+177,inducer/pudb,coleifer/peewee,pdb-like Debugger,Relational Databases,0.3232760429382324
+178,inducer/pudb,pythonnet/pythonnet,pdb-like Debugger,Microsoft Windows,0.609865128993988
+179,inducer/pudb,python/typeshed,pdb-like Debugger,Static Type Checkers,0.4484224319458008
+180,inducer/pudb,KoffeinFlummi/Chronyk,pdb-like Debugger,Date and Time,0.2819274067878723
+181,inducer/pudb,isnowfy/snownlp,pdb-like Debugger,Natural Language Processing,0.0445011667907238
+182,inducer/pudb,alecthomas/voluptuous,pdb-like Debugger,Data Validation,0.2640836536884308
+183,inducer/pudb,spulec/freezegun,pdb-like Debugger,Mock,0.3270585834980011
+184,inducer/pudb,maxmind/geoip-api-python,pdb-like Debugger,Geolocation,0.24202871322631836
+185,inducer/pudb,pallets/werkzeug,pdb-like Debugger,WSGI Servers,0.5086644887924194
+186,inducer/pudb,nvbn/thefuck,pdb-like Debugger,Productivity CLI Tools,0.4881420135498047
+187,inducer/pudb,benfred/implicit,pdb-like Debugger,Recommender Systems,0.13062724471092224
+188,inducer/pudb,erikrose/more-itertools,pdb-like Debugger,Functional Programming,0.4803953766822815
+189,inducer/pudb,PyMySQL/mysqlclient-python,pdb-like Debugger,MySQL,0.44533398747444153
+190,uber/pyflame,aws/aws-cli,Profiler,CLI Enhancements,0.19767668843269348
+191,uber/pyflame,DamnWidget/anaconda,Profiler,Sublime Text,0.14992853999137878
+192,uber/pyflame,pykong/copier,Profiler,Productivity CLI Tools,0.210204616189003
+193,uber/pyflame,FactoryBoy/factory_boy,Profiler,Object Factories,0.23941457271575928
+194,uber/pyflame,pynamodb/PynamoDB,Profiler,NoSQL Databases,0.08145797252655029
+195,uber/pyflame,jschneier/django-storages,Profiler,Web Asset Management,0.17080280184745789
+196,uber/pyflame,robotframework/robotframework,Profiler,Testing Frameworks,0.20047429203987122
+197,uber/pyflame,mininet/mininet,Profiler,Network Virtualization,0.4246963560581207
+198,uber/pyflame,ztane/python-Levenshtein,Profiler,Specific Formats Processing - General,0.012081744149327278
+199,uber/pyflame,audreyr/cookiecutter,Profiler,Productivity CLI Tools,0.1820719838142395
+200,uber/pyflame,google/python-fire,Profiler,Command-line Application Development,0.26204586029052734
+201,uber/pyflame,pycco-docs/pycco,Profiler,Documentation,0.14399076998233795
+202,uber/pyflame,rossgoodwin/hmap,Profiler,Image Processing,0.25520023703575134
+203,uber/pyflame,idan/oauthlib,Profiler,OAuth,0.06644662469625473
+204,uber/pyflame,paramiko/paramiko,Profiler,Cryptography,0.21728363633155823
+205,uber/pyflame,kevin1024/vcrpy,Profiler,Mock,0.15748852491378784
+206,uber/pyflame,platformio/platformio-core,Profiler,Build Tools,0.12985973060131073
+207,uber/pyflame,graphql-python/graphene,Profiler,GraphQL,0.10701514780521393
+208,uber/pyflame,klen/mixer,Profiler,Object Factories,0.18394236266613007
+209,uber/pyflame,seatgeek/sixpack,Profiler,GUI / Web Testing,0.23015499114990234
+210,uber/pyflame,bpython/bpython,Profiler,Interactive Interpreter,0.28336313366889954
+211,uber/pyflame,dfunckt/django-rules,Profiler,Permissions,0.14496870338916779
+212,uber/pyflame,coleifer/peewee,Profiler,Relational Databases,0.16912809014320374
+213,uber/pyflame,pythonnet/pythonnet,Profiler,Microsoft Windows,0.2944219708442688
+214,uber/pyflame,python/typeshed,Profiler,Static Type Checkers,0.11062237620353699
+215,uber/pyflame,KoffeinFlummi/Chronyk,Profiler,Date and Time,0.3246555030345917
+216,uber/pyflame,isnowfy/snownlp,Profiler,Natural Language Processing,0.06201326102018356
+217,uber/pyflame,alecthomas/voluptuous,Profiler,Data Validation,-0.036288920789957047
+218,uber/pyflame,spulec/freezegun,Profiler,Mock,0.36058706045150757
+219,uber/pyflame,maxmind/geoip-api-python,Profiler,Geolocation,0.15275391936302185
+220,uber/pyflame,pallets/werkzeug,Profiler,WSGI Servers,0.12152528017759323
+221,uber/pyflame,nvbn/thefuck,Profiler,Productivity CLI Tools,0.19095319509506226
+222,uber/pyflame,benfred/implicit,Profiler,Recommender Systems,0.12150178849697113
+223,uber/pyflame,erikrose/more-itertools,Profiler,Functional Programming,0.3583201766014099
+224,uber/pyflame,PyMySQL/mysqlclient-python,Profiler,MySQL,0.2434953898191452
+225,aws/aws-cli,DamnWidget/anaconda,CLI Enhancements,Sublime Text,0.25979411602020264
+226,aws/aws-cli,pykong/copier,CLI Enhancements,Productivity CLI Tools,0.602092981338501
+227,aws/aws-cli,FactoryBoy/factory_boy,CLI Enhancements,Object Factories,0.6052942276000977
+228,aws/aws-cli,pynamodb/PynamoDB,CLI Enhancements,NoSQL Databases,0.655186116695404
+229,aws/aws-cli,jschneier/django-storages,CLI Enhancements,Web Asset Management,0.7405229210853577
+230,aws/aws-cli,robotframework/robotframework,CLI Enhancements,Testing Frameworks,0.6581885814666748
+231,aws/aws-cli,mininet/mininet,CLI Enhancements,Network Virtualization,0.39665234088897705
+232,aws/aws-cli,ztane/python-Levenshtein,CLI Enhancements,Specific Formats Processing - General,0.035251013934612274
+233,aws/aws-cli,audreyr/cookiecutter,CLI Enhancements,Productivity CLI Tools,0.6703803539276123
+234,aws/aws-cli,google/python-fire,CLI Enhancements,Command-line Application Development,0.6277970671653748
+235,aws/aws-cli,pycco-docs/pycco,CLI Enhancements,Documentation,0.32517972588539124
+236,aws/aws-cli,rossgoodwin/hmap,CLI Enhancements,Image Processing,-0.044618427753448486
+237,aws/aws-cli,idan/oauthlib,CLI Enhancements,OAuth,0.5209720134735107
+238,aws/aws-cli,paramiko/paramiko,CLI Enhancements,Cryptography,0.6170898675918579
+239,aws/aws-cli,kevin1024/vcrpy,CLI Enhancements,Mock,0.6363542079925537
+240,aws/aws-cli,platformio/platformio-core,CLI Enhancements,Build Tools,0.5528461933135986
+241,aws/aws-cli,graphql-python/graphene,CLI Enhancements,GraphQL,0.5145077109336853
+242,aws/aws-cli,klen/mixer,CLI Enhancements,Object Factories,0.2876617908477783
+243,aws/aws-cli,seatgeek/sixpack,CLI Enhancements,GUI / Web Testing,0.5052070021629333
+244,aws/aws-cli,bpython/bpython,CLI Enhancements,Interactive Interpreter,0.5767236351966858
+245,aws/aws-cli,dfunckt/django-rules,CLI Enhancements,Permissions,0.5560804605484009
+246,aws/aws-cli,coleifer/peewee,CLI Enhancements,Relational Databases,0.5483596324920654
+247,aws/aws-cli,pythonnet/pythonnet,CLI Enhancements,Microsoft Windows,0.589739203453064
+248,aws/aws-cli,python/typeshed,CLI Enhancements,Static Type Checkers,0.21496765315532684
+249,aws/aws-cli,KoffeinFlummi/Chronyk,CLI Enhancements,Date and Time,0.3233979642391205
+250,aws/aws-cli,isnowfy/snownlp,CLI Enhancements,Natural Language Processing,-0.06605155020952225
+251,aws/aws-cli,alecthomas/voluptuous,CLI Enhancements,Data Validation,0.15338094532489777
+252,aws/aws-cli,spulec/freezegun,CLI Enhancements,Mock,0.25375932455062866
+253,aws/aws-cli,maxmind/geoip-api-python,CLI Enhancements,Geolocation,0.3795970380306244
+254,aws/aws-cli,pallets/werkzeug,CLI Enhancements,WSGI Servers,0.5188487768173218
+255,aws/aws-cli,nvbn/thefuck,CLI Enhancements,Productivity CLI Tools,0.646001935005188
+256,aws/aws-cli,benfred/implicit,CLI Enhancements,Recommender Systems,0.06829527020454407
+257,aws/aws-cli,erikrose/more-itertools,CLI Enhancements,Functional Programming,0.4740792512893677
+258,aws/aws-cli,PyMySQL/mysqlclient-python,CLI Enhancements,MySQL,0.456261545419693
+259,DamnWidget/anaconda,pykong/copier,Sublime Text,Productivity CLI Tools,0.19172419607639313
+260,DamnWidget/anaconda,FactoryBoy/factory_boy,Sublime Text,Object Factories,0.4682002663612366
+261,DamnWidget/anaconda,pynamodb/PynamoDB,Sublime Text,NoSQL Databases,0.38919180631637573
+262,DamnWidget/anaconda,jschneier/django-storages,Sublime Text,Web Asset Management,0.2651851773262024
+263,DamnWidget/anaconda,robotframework/robotframework,Sublime Text,Testing Frameworks,0.5775600075721741
+264,DamnWidget/anaconda,mininet/mininet,Sublime Text,Network Virtualization,0.18185701966285706
+265,DamnWidget/anaconda,ztane/python-Levenshtein,Sublime Text,Specific Formats Processing - General,0.29661989212036133
+266,DamnWidget/anaconda,audreyr/cookiecutter,Sublime Text,Productivity CLI Tools,0.16882477700710297
+267,DamnWidget/anaconda,google/python-fire,Sublime Text,Command-line Application Development,0.5067880153656006
+268,DamnWidget/anaconda,pycco-docs/pycco,Sublime Text,Documentation,0.10600268840789795
+269,DamnWidget/anaconda,rossgoodwin/hmap,Sublime Text,Image Processing,-0.08188760280609131
+270,DamnWidget/anaconda,idan/oauthlib,Sublime Text,OAuth,0.2236309051513672
+271,DamnWidget/anaconda,paramiko/paramiko,Sublime Text,Cryptography,0.4172482490539551
+272,DamnWidget/anaconda,kevin1024/vcrpy,Sublime Text,Mock,0.18696996569633484
+273,DamnWidget/anaconda,platformio/platformio-core,Sublime Text,Build Tools,0.1251574605703354
+274,DamnWidget/anaconda,graphql-python/graphene,Sublime Text,GraphQL,0.4542219638824463
+275,DamnWidget/anaconda,klen/mixer,Sublime Text,Object Factories,0.42734119296073914
+276,DamnWidget/anaconda,seatgeek/sixpack,Sublime Text,GUI / Web Testing,0.14618171751499176
+277,DamnWidget/anaconda,bpython/bpython,Sublime Text,Interactive Interpreter,0.534831166267395
+278,DamnWidget/anaconda,dfunckt/django-rules,Sublime Text,Permissions,0.3630672097206116
+279,DamnWidget/anaconda,coleifer/peewee,Sublime Text,Relational Databases,0.2531629800796509
+280,DamnWidget/anaconda,pythonnet/pythonnet,Sublime Text,Microsoft Windows,0.42454424500465393
+281,DamnWidget/anaconda,python/typeshed,Sublime Text,Static Type Checkers,0.9502947926521301
+282,DamnWidget/anaconda,KoffeinFlummi/Chronyk,Sublime Text,Date and Time,0.26158207654953003
+283,DamnWidget/anaconda,isnowfy/snownlp,Sublime Text,Natural Language Processing,0.07539314776659012
+284,DamnWidget/anaconda,alecthomas/voluptuous,Sublime Text,Data Validation,0.5527485013008118
+285,DamnWidget/anaconda,spulec/freezegun,Sublime Text,Mock,0.3495985269546509
+286,DamnWidget/anaconda,maxmind/geoip-api-python,Sublime Text,Geolocation,0.08269207924604416
+287,DamnWidget/anaconda,pallets/werkzeug,Sublime Text,WSGI Servers,0.6212018728256226
+288,DamnWidget/anaconda,nvbn/thefuck,Sublime Text,Productivity CLI Tools,0.2557889223098755
+289,DamnWidget/anaconda,benfred/implicit,Sublime Text,Recommender Systems,-0.05552066117525101
+290,DamnWidget/anaconda,erikrose/more-itertools,Sublime Text,Functional Programming,0.39915159344673157
+291,DamnWidget/anaconda,PyMySQL/mysqlclient-python,Sublime Text,MySQL,0.36034685373306274
+292,pykong/copier,FactoryBoy/factory_boy,Productivity CLI Tools,Object Factories,0.4303121566772461
+293,pykong/copier,pynamodb/PynamoDB,Productivity CLI Tools,NoSQL Databases,0.3406917452812195
+294,pykong/copier,jschneier/django-storages,Productivity CLI Tools,Web Asset Management,0.5052838325500488
+295,pykong/copier,robotframework/robotframework,Productivity CLI Tools,Testing Frameworks,0.50347900390625
+296,pykong/copier,mininet/mininet,Productivity CLI Tools,Network Virtualization,0.341818630695343
+297,pykong/copier,ztane/python-Levenshtein,Productivity CLI Tools,Specific Formats Processing - General,-0.0005156490951776505
+298,pykong/copier,audreyr/cookiecutter,Productivity CLI Tools,Productivity CLI Tools,0.8123542666435242
+299,pykong/copier,google/python-fire,Productivity CLI Tools,Command-line Application Development,0.42833757400512695
+300,pykong/copier,pycco-docs/pycco,Productivity CLI Tools,Documentation,0.534667432308197
+301,pykong/copier,rossgoodwin/hmap,Productivity CLI Tools,Image Processing,0.02373667061328888
+302,pykong/copier,idan/oauthlib,Productivity CLI Tools,OAuth,0.24756985902786255
+303,pykong/copier,paramiko/paramiko,Productivity CLI Tools,Cryptography,0.3983970880508423
+304,pykong/copier,kevin1024/vcrpy,Productivity CLI Tools,Mock,0.5315040946006775
+305,pykong/copier,platformio/platformio-core,Productivity CLI Tools,Build Tools,0.5932382941246033
+306,pykong/copier,graphql-python/graphene,Productivity CLI Tools,GraphQL,0.3729392886161804
+307,pykong/copier,klen/mixer,Productivity CLI Tools,Object Factories,0.29265525937080383
+308,pykong/copier,seatgeek/sixpack,Productivity CLI Tools,GUI / Web Testing,0.3188236951828003
+309,pykong/copier,bpython/bpython,Productivity CLI Tools,Interactive Interpreter,0.4364943504333496
+310,pykong/copier,dfunckt/django-rules,Productivity CLI Tools,Permissions,0.3992057740688324
+311,pykong/copier,coleifer/peewee,Productivity CLI Tools,Relational Databases,0.3415832221508026
+312,pykong/copier,pythonnet/pythonnet,Productivity CLI Tools,Microsoft Windows,0.44728976488113403
+313,pykong/copier,python/typeshed,Productivity CLI Tools,Static Type Checkers,0.1058274358510971
+314,pykong/copier,KoffeinFlummi/Chronyk,Productivity CLI Tools,Date and Time,0.2966880798339844
+315,pykong/copier,isnowfy/snownlp,Productivity CLI Tools,Natural Language Processing,-0.10932611674070358
+316,pykong/copier,alecthomas/voluptuous,Productivity CLI Tools,Data Validation,0.10983271896839142
+317,pykong/copier,spulec/freezegun,Productivity CLI Tools,Mock,0.30166321992874146
+318,pykong/copier,maxmind/geoip-api-python,Productivity CLI Tools,Geolocation,0.2541981637477875
+319,pykong/copier,pallets/werkzeug,Productivity CLI Tools,WSGI Servers,0.3510409891605377
+320,pykong/copier,nvbn/thefuck,Productivity CLI Tools,Productivity CLI Tools,0.630141019821167
+321,pykong/copier,benfred/implicit,Productivity CLI Tools,Recommender Systems,0.04299111291766167
+322,pykong/copier,erikrose/more-itertools,Productivity CLI Tools,Functional Programming,0.3350431025028229
+323,pykong/copier,PyMySQL/mysqlclient-python,Productivity CLI Tools,MySQL,0.29542404413223267
+324,FactoryBoy/factory_boy,pynamodb/PynamoDB,Object Factories,NoSQL Databases,0.7272147536277771
+325,FactoryBoy/factory_boy,jschneier/django-storages,Object Factories,Web Asset Management,0.5199836492538452
+326,FactoryBoy/factory_boy,robotframework/robotframework,Object Factories,Testing Frameworks,0.6431227922439575
+327,FactoryBoy/factory_boy,mininet/mininet,Object Factories,Network Virtualization,0.280682235956192
+328,FactoryBoy/factory_boy,ztane/python-Levenshtein,Object Factories,Specific Formats Processing - General,0.17176955938339233
+329,FactoryBoy/factory_boy,audreyr/cookiecutter,Object Factories,Productivity CLI Tools,0.4956197738647461
+330,FactoryBoy/factory_boy,google/python-fire,Object Factories,Command-line Application Development,0.6303092241287231
+331,FactoryBoy/factory_boy,pycco-docs/pycco,Object Factories,Documentation,0.2358875274658203
+332,FactoryBoy/factory_boy,rossgoodwin/hmap,Object Factories,Image Processing,-0.015340025536715984
+333,FactoryBoy/factory_boy,idan/oauthlib,Object Factories,OAuth,0.3607613444328308
+334,FactoryBoy/factory_boy,paramiko/paramiko,Object Factories,Cryptography,0.38468435406684875
+335,FactoryBoy/factory_boy,kevin1024/vcrpy,Object Factories,Mock,0.45365986227989197
+336,FactoryBoy/factory_boy,platformio/platformio-core,Object Factories,Build Tools,0.23609806597232819
+337,FactoryBoy/factory_boy,graphql-python/graphene,Object Factories,GraphQL,0.6921691298484802
+338,FactoryBoy/factory_boy,klen/mixer,Object Factories,Object Factories,0.6870623826980591
+339,FactoryBoy/factory_boy,seatgeek/sixpack,Object Factories,GUI / Web Testing,0.43341273069381714
+340,FactoryBoy/factory_boy,bpython/bpython,Object Factories,Interactive Interpreter,0.5565515756607056
+341,FactoryBoy/factory_boy,dfunckt/django-rules,Object Factories,Permissions,0.6263340711593628
+342,FactoryBoy/factory_boy,coleifer/peewee,Object Factories,Relational Databases,0.669348955154419
+343,FactoryBoy/factory_boy,pythonnet/pythonnet,Object Factories,Microsoft Windows,0.7424543499946594
+344,FactoryBoy/factory_boy,python/typeshed,Object Factories,Static Type Checkers,0.4189884662628174
+345,FactoryBoy/factory_boy,KoffeinFlummi/Chronyk,Object Factories,Date and Time,0.44209861755371094
+346,FactoryBoy/factory_boy,isnowfy/snownlp,Object Factories,Natural Language Processing,0.0978630930185318
+347,FactoryBoy/factory_boy,alecthomas/voluptuous,Object Factories,Data Validation,0.38457468152046204
+348,FactoryBoy/factory_boy,spulec/freezegun,Object Factories,Mock,0.4618224799633026
+349,FactoryBoy/factory_boy,maxmind/geoip-api-python,Object Factories,Geolocation,0.35935354232788086
+350,FactoryBoy/factory_boy,pallets/werkzeug,Object Factories,WSGI Servers,0.5112496614456177
+351,FactoryBoy/factory_boy,nvbn/thefuck,Object Factories,Productivity CLI Tools,0.41494035720825195
+352,FactoryBoy/factory_boy,benfred/implicit,Object Factories,Recommender Systems,0.23732420802116394
+353,FactoryBoy/factory_boy,erikrose/more-itertools,Object Factories,Functional Programming,0.6020380854606628
+354,FactoryBoy/factory_boy,PyMySQL/mysqlclient-python,Object Factories,MySQL,0.4972781836986542
+355,pynamodb/PynamoDB,jschneier/django-storages,NoSQL Databases,Web Asset Management,0.5659972429275513
+356,pynamodb/PynamoDB,robotframework/robotframework,NoSQL Databases,Testing Frameworks,0.5941242575645447
+357,pynamodb/PynamoDB,mininet/mininet,NoSQL Databases,Network Virtualization,0.2044091522693634
+358,pynamodb/PynamoDB,ztane/python-Levenshtein,NoSQL Databases,Specific Formats Processing - General,0.14110076427459717
+359,pynamodb/PynamoDB,audreyr/cookiecutter,NoSQL Databases,Productivity CLI Tools,0.3671795725822449
+360,pynamodb/PynamoDB,google/python-fire,NoSQL Databases,Command-line Application Development,0.5365979075431824
+361,pynamodb/PynamoDB,pycco-docs/pycco,NoSQL Databases,Documentation,0.14606541395187378
+362,pynamodb/PynamoDB,rossgoodwin/hmap,NoSQL Databases,Image Processing,-0.008541279472410679
+363,pynamodb/PynamoDB,idan/oauthlib,NoSQL Databases,OAuth,0.4456180930137634
+364,pynamodb/PynamoDB,paramiko/paramiko,NoSQL Databases,Cryptography,0.44459640979766846
+365,pynamodb/PynamoDB,kevin1024/vcrpy,NoSQL Databases,Mock,0.467881977558136
+366,pynamodb/PynamoDB,platformio/platformio-core,NoSQL Databases,Build Tools,0.18268373608589172
+367,pynamodb/PynamoDB,graphql-python/graphene,NoSQL Databases,GraphQL,0.6766617298126221
+368,pynamodb/PynamoDB,klen/mixer,NoSQL Databases,Object Factories,0.470064640045166
+369,pynamodb/PynamoDB,seatgeek/sixpack,NoSQL Databases,GUI / Web Testing,0.46640124917030334
+370,pynamodb/PynamoDB,bpython/bpython,NoSQL Databases,Interactive Interpreter,0.5032603740692139
+371,pynamodb/PynamoDB,dfunckt/django-rules,NoSQL Databases,Permissions,0.5781638026237488
+372,pynamodb/PynamoDB,coleifer/peewee,NoSQL Databases,Relational Databases,0.7353087663650513
+373,pynamodb/PynamoDB,pythonnet/pythonnet,NoSQL Databases,Microsoft Windows,0.6409056186676025
+374,pynamodb/PynamoDB,python/typeshed,NoSQL Databases,Static Type Checkers,0.3622922897338867
+375,pynamodb/PynamoDB,KoffeinFlummi/Chronyk,NoSQL Databases,Date and Time,0.374594509601593
+376,pynamodb/PynamoDB,isnowfy/snownlp,NoSQL Databases,Natural Language Processing,0.019175764173269272
+377,pynamodb/PynamoDB,alecthomas/voluptuous,NoSQL Databases,Data Validation,0.3972528874874115
+378,pynamodb/PynamoDB,spulec/freezegun,NoSQL Databases,Mock,0.303047776222229
+379,pynamodb/PynamoDB,maxmind/geoip-api-python,NoSQL Databases,Geolocation,0.3688174784183502
+380,pynamodb/PynamoDB,pallets/werkzeug,NoSQL Databases,WSGI Servers,0.5608753561973572
+381,pynamodb/PynamoDB,nvbn/thefuck,NoSQL Databases,Productivity CLI Tools,0.35550516843795776
+382,pynamodb/PynamoDB,benfred/implicit,NoSQL Databases,Recommender Systems,0.16783413290977478
+383,pynamodb/PynamoDB,erikrose/more-itertools,NoSQL Databases,Functional Programming,0.550460696220398
+384,pynamodb/PynamoDB,PyMySQL/mysqlclient-python,NoSQL Databases,MySQL,0.5939477682113647
+385,jschneier/django-storages,robotframework/robotframework,Web Asset Management,Testing Frameworks,0.4775497317314148
+386,jschneier/django-storages,mininet/mininet,Web Asset Management,Network Virtualization,0.2670614719390869
+387,jschneier/django-storages,ztane/python-Levenshtein,Web Asset Management,Specific Formats Processing - General,0.05514300614595413
+388,jschneier/django-storages,audreyr/cookiecutter,Web Asset Management,Productivity CLI Tools,0.5752971172332764
+389,jschneier/django-storages,google/python-fire,Web Asset Management,Command-line Application Development,0.39925652742385864
+390,jschneier/django-storages,pycco-docs/pycco,Web Asset Management,Documentation,0.254474401473999
+391,jschneier/django-storages,rossgoodwin/hmap,Web Asset Management,Image Processing,-0.016397828236222267
+392,jschneier/django-storages,idan/oauthlib,Web Asset Management,OAuth,0.46238791942596436
+393,jschneier/django-storages,paramiko/paramiko,Web Asset Management,Cryptography,0.6022474765777588
+394,jschneier/django-storages,kevin1024/vcrpy,Web Asset Management,Mock,0.6187504529953003
+395,jschneier/django-storages,platformio/platformio-core,Web Asset Management,Build Tools,0.3893682360649109
+396,jschneier/django-storages,graphql-python/graphene,Web Asset Management,GraphQL,0.37721771001815796
+397,jschneier/django-storages,klen/mixer,Web Asset Management,Object Factories,0.30099809169769287
+398,jschneier/django-storages,seatgeek/sixpack,Web Asset Management,GUI / Web Testing,0.42191848158836365
+399,jschneier/django-storages,bpython/bpython,Web Asset Management,Interactive Interpreter,0.4757472276687622
+400,jschneier/django-storages,dfunckt/django-rules,Web Asset Management,Permissions,0.48846152424812317
+401,jschneier/django-storages,coleifer/peewee,Web Asset Management,Relational Databases,0.4729878902435303
+402,jschneier/django-storages,pythonnet/pythonnet,Web Asset Management,Microsoft Windows,0.49121078848838806
+403,jschneier/django-storages,python/typeshed,Web Asset Management,Static Type Checkers,0.20762458443641663
+404,jschneier/django-storages,KoffeinFlummi/Chronyk,Web Asset Management,Date and Time,0.3519269526004791
+405,jschneier/django-storages,isnowfy/snownlp,Web Asset Management,Natural Language Processing,-0.0031220922246575356
+406,jschneier/django-storages,alecthomas/voluptuous,Web Asset Management,Data Validation,0.09884517639875412
+407,jschneier/django-storages,spulec/freezegun,Web Asset Management,Mock,0.31722649931907654
+408,jschneier/django-storages,maxmind/geoip-api-python,Web Asset Management,Geolocation,0.3808847665786743
+409,jschneier/django-storages,pallets/werkzeug,Web Asset Management,WSGI Servers,0.545250654220581
+410,jschneier/django-storages,nvbn/thefuck,Web Asset Management,Productivity CLI Tools,0.4263514280319214
+411,jschneier/django-storages,benfred/implicit,Web Asset Management,Recommender Systems,0.13243785500526428
+412,jschneier/django-storages,erikrose/more-itertools,Web Asset Management,Functional Programming,0.3786632716655731
+413,jschneier/django-storages,PyMySQL/mysqlclient-python,Web Asset Management,MySQL,0.42694276571273804
+414,robotframework/robotframework,mininet/mininet,Testing Frameworks,Network Virtualization,0.3038412928581238
+415,robotframework/robotframework,ztane/python-Levenshtein,Testing Frameworks,Specific Formats Processing - General,0.1864689737558365
+416,robotframework/robotframework,audreyr/cookiecutter,Testing Frameworks,Productivity CLI Tools,0.5560681223869324
+417,robotframework/robotframework,google/python-fire,Testing Frameworks,Command-line Application Development,0.7906320691108704
+418,robotframework/robotframework,pycco-docs/pycco,Testing Frameworks,Documentation,0.43223699927330017
+419,robotframework/robotframework,rossgoodwin/hmap,Testing Frameworks,Image Processing,-0.14039084315299988
+420,robotframework/robotframework,idan/oauthlib,Testing Frameworks,OAuth,0.4018992781639099
+421,robotframework/robotframework,paramiko/paramiko,Testing Frameworks,Cryptography,0.523983359336853
+422,robotframework/robotframework,kevin1024/vcrpy,Testing Frameworks,Mock,0.4442251920700073
+423,robotframework/robotframework,platformio/platformio-core,Testing Frameworks,Build Tools,0.47957900166511536
+424,robotframework/robotframework,graphql-python/graphene,Testing Frameworks,GraphQL,0.6238170266151428
+425,robotframework/robotframework,klen/mixer,Testing Frameworks,Object Factories,0.3741580843925476
+426,robotframework/robotframework,seatgeek/sixpack,Testing Frameworks,GUI / Web Testing,0.42912203073501587
+427,robotframework/robotframework,bpython/bpython,Testing Frameworks,Interactive Interpreter,0.7282861471176147
+428,robotframework/robotframework,dfunckt/django-rules,Testing Frameworks,Permissions,0.567718505859375
+429,robotframework/robotframework,coleifer/peewee,Testing Frameworks,Relational Databases,0.44815096259117126
+430,robotframework/robotframework,pythonnet/pythonnet,Testing Frameworks,Microsoft Windows,0.7158193588256836
+431,robotframework/robotframework,python/typeshed,Testing Frameworks,Static Type Checkers,0.49656203389167786
+432,robotframework/robotframework,KoffeinFlummi/Chronyk,Testing Frameworks,Date and Time,0.39685168862342834
+433,robotframework/robotframework,isnowfy/snownlp,Testing Frameworks,Natural Language Processing,0.07986287772655487
+434,robotframework/robotframework,alecthomas/voluptuous,Testing Frameworks,Data Validation,0.49326398968696594
+435,robotframework/robotframework,spulec/freezegun,Testing Frameworks,Mock,0.3495122790336609
+436,robotframework/robotframework,maxmind/geoip-api-python,Testing Frameworks,Geolocation,0.29233431816101074
+437,robotframework/robotframework,pallets/werkzeug,Testing Frameworks,WSGI Servers,0.6127035021781921
+438,robotframework/robotframework,nvbn/thefuck,Testing Frameworks,Productivity CLI Tools,0.5482563972473145
+439,robotframework/robotframework,benfred/implicit,Testing Frameworks,Recommender Systems,0.032337553799152374
+440,robotframework/robotframework,erikrose/more-itertools,Testing Frameworks,Functional Programming,0.5567119717597961
+441,robotframework/robotframework,PyMySQL/mysqlclient-python,Testing Frameworks,MySQL,0.4831497371196747
+442,mininet/mininet,ztane/python-Levenshtein,Network Virtualization,Specific Formats Processing - General,0.008148153312504292
+443,mininet/mininet,audreyr/cookiecutter,Network Virtualization,Productivity CLI Tools,0.309431791305542
+444,mininet/mininet,google/python-fire,Network Virtualization,Command-line Application Development,0.33920785784721375
+445,mininet/mininet,pycco-docs/pycco,Network Virtualization,Documentation,0.17762383818626404
+446,mininet/mininet,rossgoodwin/hmap,Network Virtualization,Image Processing,0.11239847540855408
+447,mininet/mininet,idan/oauthlib,Network Virtualization,OAuth,0.10514990985393524
+448,mininet/mininet,paramiko/paramiko,Network Virtualization,Cryptography,0.5299792289733887
+449,mininet/mininet,kevin1024/vcrpy,Network Virtualization,Mock,0.3071596324443817
+450,mininet/mininet,platformio/platformio-core,Network Virtualization,Build Tools,0.42466381192207336
+451,mininet/mininet,graphql-python/graphene,Network Virtualization,GraphQL,0.2200486660003662
+452,mininet/mininet,klen/mixer,Network Virtualization,Object Factories,0.12678198516368866
+453,mininet/mininet,seatgeek/sixpack,Network Virtualization,GUI / Web Testing,0.2766754627227783
+454,mininet/mininet,bpython/bpython,Network Virtualization,Interactive Interpreter,0.2911303639411926
+455,mininet/mininet,dfunckt/django-rules,Network Virtualization,Permissions,0.2384868860244751
+456,mininet/mininet,coleifer/peewee,Network Virtualization,Relational Databases,0.2809158265590668
+457,mininet/mininet,pythonnet/pythonnet,Network Virtualization,Microsoft Windows,0.40498119592666626
+458,mininet/mininet,python/typeshed,Network Virtualization,Static Type Checkers,0.14957349002361298
+459,mininet/mininet,KoffeinFlummi/Chronyk,Network Virtualization,Date and Time,0.23689375817775726
+460,mininet/mininet,isnowfy/snownlp,Network Virtualization,Natural Language Processing,0.024764113128185272
+461,mininet/mininet,alecthomas/voluptuous,Network Virtualization,Data Validation,-0.018102768808603287
+462,mininet/mininet,spulec/freezegun,Network Virtualization,Mock,0.14452707767486572
+463,mininet/mininet,maxmind/geoip-api-python,Network Virtualization,Geolocation,0.3468230962753296
+464,mininet/mininet,pallets/werkzeug,Network Virtualization,WSGI Servers,0.25515303015708923
+465,mininet/mininet,nvbn/thefuck,Network Virtualization,Productivity CLI Tools,0.38998374342918396
+466,mininet/mininet,benfred/implicit,Network Virtualization,Recommender Systems,0.15052443742752075
+467,mininet/mininet,erikrose/more-itertools,Network Virtualization,Functional Programming,0.3428065776824951
+468,mininet/mininet,PyMySQL/mysqlclient-python,Network Virtualization,MySQL,0.37560296058654785
+469,ztane/python-Levenshtein,audreyr/cookiecutter,Specific Formats Processing - General,Productivity CLI Tools,-0.06330318748950958
+470,ztane/python-Levenshtein,google/python-fire,Specific Formats Processing - General,Command-line Application Development,0.2623610198497772
+471,ztane/python-Levenshtein,pycco-docs/pycco,Specific Formats Processing - General,Documentation,0.029486261308193207
+472,ztane/python-Levenshtein,rossgoodwin/hmap,Specific Formats Processing - General,Image Processing,0.06965910643339157
+473,ztane/python-Levenshtein,idan/oauthlib,Specific Formats Processing - General,OAuth,0.01823580451309681
+474,ztane/python-Levenshtein,paramiko/paramiko,Specific Formats Processing - General,Cryptography,0.10856744647026062
+475,ztane/python-Levenshtein,kevin1024/vcrpy,Specific Formats Processing - General,Mock,0.06518378853797913
+476,ztane/python-Levenshtein,platformio/platformio-core,Specific Formats Processing - General,Build Tools,-0.082422636449337
+477,ztane/python-Levenshtein,graphql-python/graphene,Specific Formats Processing - General,GraphQL,0.10449729859828949
+478,ztane/python-Levenshtein,klen/mixer,Specific Formats Processing - General,Object Factories,0.13324499130249023
+479,ztane/python-Levenshtein,seatgeek/sixpack,Specific Formats Processing - General,GUI / Web Testing,0.09543129056692123
+480,ztane/python-Levenshtein,bpython/bpython,Specific Formats Processing - General,Interactive Interpreter,0.29828354716300964
+481,ztane/python-Levenshtein,dfunckt/django-rules,Specific Formats Processing - General,Permissions,0.10008737444877625
+482,ztane/python-Levenshtein,coleifer/peewee,Specific Formats Processing - General,Relational Databases,0.13573528826236725
+483,ztane/python-Levenshtein,pythonnet/pythonnet,Specific Formats Processing - General,Microsoft Windows,0.1488400548696518
+484,ztane/python-Levenshtein,python/typeshed,Specific Formats Processing - General,Static Type Checkers,0.29259562492370605
+485,ztane/python-Levenshtein,KoffeinFlummi/Chronyk,Specific Formats Processing - General,Date and Time,0.29744595289230347
+486,ztane/python-Levenshtein,isnowfy/snownlp,Specific Formats Processing - General,Natural Language Processing,0.294450968503952
+487,ztane/python-Levenshtein,alecthomas/voluptuous,Specific Formats Processing - General,Data Validation,0.22768108546733856
+488,ztane/python-Levenshtein,spulec/freezegun,Specific Formats Processing - General,Mock,0.01730876974761486
+489,ztane/python-Levenshtein,maxmind/geoip-api-python,Specific Formats Processing - General,Geolocation,0.08381112664937973
+490,ztane/python-Levenshtein,pallets/werkzeug,Specific Formats Processing - General,WSGI Servers,0.20781151950359344
+491,ztane/python-Levenshtein,nvbn/thefuck,Specific Formats Processing - General,Productivity CLI Tools,0.141325443983078
+492,ztane/python-Levenshtein,benfred/implicit,Specific Formats Processing - General,Recommender Systems,0.08101677894592285
+493,ztane/python-Levenshtein,erikrose/more-itertools,Specific Formats Processing - General,Functional Programming,0.24182090163230896
+494,ztane/python-Levenshtein,PyMySQL/mysqlclient-python,Specific Formats Processing - General,MySQL,0.1666407734155655
+495,audreyr/cookiecutter,google/python-fire,Productivity CLI Tools,Command-line Application Development,0.47912877798080444
+496,audreyr/cookiecutter,pycco-docs/pycco,Productivity CLI Tools,Documentation,0.5181220769882202
+497,audreyr/cookiecutter,rossgoodwin/hmap,Productivity CLI Tools,Image Processing,-0.032720789313316345
+498,audreyr/cookiecutter,idan/oauthlib,Productivity CLI Tools,OAuth,0.34914499521255493
+499,audreyr/cookiecutter,paramiko/paramiko,Productivity CLI Tools,Cryptography,0.4592585563659668
+500,audreyr/cookiecutter,kevin1024/vcrpy,Productivity CLI Tools,Mock,0.6032013893127441
+501,audreyr/cookiecutter,platformio/platformio-core,Productivity CLI Tools,Build Tools,0.6463268399238586
+502,audreyr/cookiecutter,graphql-python/graphene,Productivity CLI Tools,GraphQL,0.3735019862651825
+503,audreyr/cookiecutter,klen/mixer,Productivity CLI Tools,Object Factories,0.3298279047012329
+504,audreyr/cookiecutter,seatgeek/sixpack,Productivity CLI Tools,GUI / Web Testing,0.42193901538848877
+505,audreyr/cookiecutter,bpython/bpython,Productivity CLI Tools,Interactive Interpreter,0.48890721797943115
+506,audreyr/cookiecutter,dfunckt/django-rules,Productivity CLI Tools,Permissions,0.46715015172958374
+507,audreyr/cookiecutter,coleifer/peewee,Productivity CLI Tools,Relational Databases,0.38305774331092834
+508,audreyr/cookiecutter,pythonnet/pythonnet,Productivity CLI Tools,Microsoft Windows,0.5070348978042603
+509,audreyr/cookiecutter,python/typeshed,Productivity CLI Tools,Static Type Checkers,0.06811420619487762
+510,audreyr/cookiecutter,KoffeinFlummi/Chronyk,Productivity CLI Tools,Date and Time,0.3118669092655182
+511,audreyr/cookiecutter,isnowfy/snownlp,Productivity CLI Tools,Natural Language Processing,-0.13311375677585602
+512,audreyr/cookiecutter,alecthomas/voluptuous,Productivity CLI Tools,Data Validation,0.09028194844722748
+513,audreyr/cookiecutter,spulec/freezegun,Productivity CLI Tools,Mock,0.3728022575378418
+514,audreyr/cookiecutter,maxmind/geoip-api-python,Productivity CLI Tools,Geolocation,0.30568188428878784
+515,audreyr/cookiecutter,pallets/werkzeug,Productivity CLI Tools,WSGI Servers,0.40605130791664124
+516,audreyr/cookiecutter,nvbn/thefuck,Productivity CLI Tools,Productivity CLI Tools,0.6623590588569641
+517,audreyr/cookiecutter,benfred/implicit,Productivity CLI Tools,Recommender Systems,0.10996266454458237
+518,audreyr/cookiecutter,erikrose/more-itertools,Productivity CLI Tools,Functional Programming,0.35690057277679443
+519,audreyr/cookiecutter,PyMySQL/mysqlclient-python,Productivity CLI Tools,MySQL,0.33846315741539
+520,google/python-fire,pycco-docs/pycco,Command-line Application Development,Documentation,0.3599987030029297
+521,google/python-fire,rossgoodwin/hmap,Command-line Application Development,Image Processing,-0.029196688905358315
+522,google/python-fire,idan/oauthlib,Command-line Application Development,OAuth,0.31919941306114197
+523,google/python-fire,paramiko/paramiko,Command-line Application Development,Cryptography,0.4628906846046448
+524,google/python-fire,kevin1024/vcrpy,Command-line Application Development,Mock,0.35474708676338196
+525,google/python-fire,platformio/platformio-core,Command-line Application Development,Build Tools,0.37317582964897156
+526,google/python-fire,graphql-python/graphene,Command-line Application Development,GraphQL,0.6196531653404236
+527,google/python-fire,klen/mixer,Command-line Application Development,Object Factories,0.3462636172771454
+528,google/python-fire,seatgeek/sixpack,Command-line Application Development,GUI / Web Testing,0.35177484154701233
+529,google/python-fire,bpython/bpython,Command-line Application Development,Interactive Interpreter,0.7471160888671875
+530,google/python-fire,dfunckt/django-rules,Command-line Application Development,Permissions,0.4996311068534851
+531,google/python-fire,coleifer/peewee,Command-line Application Development,Relational Databases,0.428766131401062
+532,google/python-fire,pythonnet/pythonnet,Command-line Application Development,Microsoft Windows,0.7080743312835693
+533,google/python-fire,python/typeshed,Command-line Application Development,Static Type Checkers,0.4478757083415985
+534,google/python-fire,KoffeinFlummi/Chronyk,Command-line Application Development,Date and Time,0.4342471659183502
+535,google/python-fire,isnowfy/snownlp,Command-line Application Development,Natural Language Processing,0.05147745460271835
+536,google/python-fire,alecthomas/voluptuous,Command-line Application Development,Data Validation,0.4350704550743103
+537,google/python-fire,spulec/freezegun,Command-line Application Development,Mock,0.3449017107486725
+538,google/python-fire,maxmind/geoip-api-python,Command-line Application Development,Geolocation,0.300455242395401
+539,google/python-fire,pallets/werkzeug,Command-line Application Development,WSGI Servers,0.5142185688018799
+540,google/python-fire,nvbn/thefuck,Command-line Application Development,Productivity CLI Tools,0.6071068048477173
+541,google/python-fire,benfred/implicit,Command-line Application Development,Recommender Systems,0.0589519701898098
+542,google/python-fire,erikrose/more-itertools,Command-line Application Development,Functional Programming,0.6174182891845703
+543,google/python-fire,PyMySQL/mysqlclient-python,Command-line Application Development,MySQL,0.49529558420181274
+544,pycco-docs/pycco,rossgoodwin/hmap,Documentation,Image Processing,0.009839356876909733
+545,pycco-docs/pycco,idan/oauthlib,Documentation,OAuth,0.1275881826877594
+546,pycco-docs/pycco,paramiko/paramiko,Documentation,Cryptography,0.15276505053043365
+547,pycco-docs/pycco,kevin1024/vcrpy,Documentation,Mock,0.3283202052116394
+548,pycco-docs/pycco,platformio/platformio-core,Documentation,Build Tools,0.39487940073013306
+549,pycco-docs/pycco,graphql-python/graphene,Documentation,GraphQL,0.2021007537841797
+550,pycco-docs/pycco,klen/mixer,Documentation,Object Factories,0.16660474240779877
+551,pycco-docs/pycco,seatgeek/sixpack,Documentation,GUI / Web Testing,0.11435641348361969
+552,pycco-docs/pycco,bpython/bpython,Documentation,Interactive Interpreter,0.4185212254524231
+553,pycco-docs/pycco,dfunckt/django-rules,Documentation,Permissions,0.20524001121520996
+554,pycco-docs/pycco,coleifer/peewee,Documentation,Relational Databases,0.18742221593856812
+555,pycco-docs/pycco,pythonnet/pythonnet,Documentation,Microsoft Windows,0.2599010467529297
+556,pycco-docs/pycco,python/typeshed,Documentation,Static Type Checkers,-0.005773486569523811
+557,pycco-docs/pycco,KoffeinFlummi/Chronyk,Documentation,Date and Time,0.1821475774049759
+558,pycco-docs/pycco,isnowfy/snownlp,Documentation,Natural Language Processing,0.20371492207050323
+559,pycco-docs/pycco,alecthomas/voluptuous,Documentation,Data Validation,0.08252912759780884
+560,pycco-docs/pycco,spulec/freezegun,Documentation,Mock,0.12285755574703217
+561,pycco-docs/pycco,maxmind/geoip-api-python,Documentation,Geolocation,0.1970611959695816
+562,pycco-docs/pycco,pallets/werkzeug,Documentation,WSGI Servers,0.2683050036430359
+563,pycco-docs/pycco,nvbn/thefuck,Documentation,Productivity CLI Tools,0.3977096676826477
+564,pycco-docs/pycco,benfred/implicit,Documentation,Recommender Systems,0.006784295663237572
+565,pycco-docs/pycco,erikrose/more-itertools,Documentation,Functional Programming,0.2879236042499542
+566,pycco-docs/pycco,PyMySQL/mysqlclient-python,Documentation,MySQL,0.18656238913536072
+567,rossgoodwin/hmap,idan/oauthlib,Image Processing,OAuth,-0.06446243077516556
+568,rossgoodwin/hmap,paramiko/paramiko,Image Processing,Cryptography,-0.030457230284810066
+569,rossgoodwin/hmap,kevin1024/vcrpy,Image Processing,Mock,0.001211819238960743
+570,rossgoodwin/hmap,platformio/platformio-core,Image Processing,Build Tools,-0.13014644384384155
+571,rossgoodwin/hmap,graphql-python/graphene,Image Processing,GraphQL,-0.11279870569705963
+572,rossgoodwin/hmap,klen/mixer,Image Processing,Object Factories,0.005251702852547169
+573,rossgoodwin/hmap,seatgeek/sixpack,Image Processing,GUI / Web Testing,-0.012537302449345589
+574,rossgoodwin/hmap,bpython/bpython,Image Processing,Interactive Interpreter,0.041580379009246826
+575,rossgoodwin/hmap,dfunckt/django-rules,Image Processing,Permissions,-0.017761360853910446
+576,rossgoodwin/hmap,coleifer/peewee,Image Processing,Relational Databases,0.04708610475063324
+577,rossgoodwin/hmap,pythonnet/pythonnet,Image Processing,Microsoft Windows,0.04536676034331322
+578,rossgoodwin/hmap,python/typeshed,Image Processing,Static Type Checkers,-0.04473716765642166
+579,rossgoodwin/hmap,KoffeinFlummi/Chronyk,Image Processing,Date and Time,0.05834624171257019
+580,rossgoodwin/hmap,isnowfy/snownlp,Image Processing,Natural Language Processing,-0.064969003200531
+581,rossgoodwin/hmap,alecthomas/voluptuous,Image Processing,Data Validation,-0.2054426670074463
+582,rossgoodwin/hmap,spulec/freezegun,Image Processing,Mock,-0.044435855001211166
+583,rossgoodwin/hmap,maxmind/geoip-api-python,Image Processing,Geolocation,-0.003048207610845566
+584,rossgoodwin/hmap,pallets/werkzeug,Image Processing,WSGI Servers,-0.08797138929367065
+585,rossgoodwin/hmap,nvbn/thefuck,Image Processing,Productivity CLI Tools,0.06031077355146408
+586,rossgoodwin/hmap,benfred/implicit,Image Processing,Recommender Systems,0.0540185272693634
+587,rossgoodwin/hmap,erikrose/more-itertools,Image Processing,Functional Programming,0.13064198195934296
+588,rossgoodwin/hmap,PyMySQL/mysqlclient-python,Image Processing,MySQL,-0.025364287197589874
+589,idan/oauthlib,paramiko/paramiko,OAuth,Cryptography,0.5476122498512268
+590,idan/oauthlib,kevin1024/vcrpy,OAuth,Mock,0.5453957319259644
+591,idan/oauthlib,platformio/platformio-core,OAuth,Build Tools,0.25999313592910767
+592,idan/oauthlib,graphql-python/graphene,OAuth,GraphQL,0.4027881622314453
+593,idan/oauthlib,klen/mixer,OAuth,Object Factories,0.2505798935890198
+594,idan/oauthlib,seatgeek/sixpack,OAuth,GUI / Web Testing,0.3727143406867981
+595,idan/oauthlib,bpython/bpython,OAuth,Interactive Interpreter,0.28100380301475525
+596,idan/oauthlib,dfunckt/django-rules,OAuth,Permissions,0.49383461475372314
+597,idan/oauthlib,coleifer/peewee,OAuth,Relational Databases,0.34831130504608154
+598,idan/oauthlib,pythonnet/pythonnet,OAuth,Microsoft Windows,0.36813756823539734
+599,idan/oauthlib,python/typeshed,OAuth,Static Type Checkers,0.1976100504398346
+600,idan/oauthlib,KoffeinFlummi/Chronyk,OAuth,Date and Time,0.21795886754989624
+601,idan/oauthlib,isnowfy/snownlp,OAuth,Natural Language Processing,-0.13236656785011292
+602,idan/oauthlib,alecthomas/voluptuous,OAuth,Data Validation,0.24453778564929962
+603,idan/oauthlib,spulec/freezegun,OAuth,Mock,0.19939368963241577
+604,idan/oauthlib,maxmind/geoip-api-python,OAuth,Geolocation,0.26171189546585083
+605,idan/oauthlib,pallets/werkzeug,OAuth,WSGI Servers,0.5704587697982788
+606,idan/oauthlib,nvbn/thefuck,OAuth,Productivity CLI Tools,0.19686776399612427
+607,idan/oauthlib,benfred/implicit,OAuth,Recommender Systems,0.06528747826814651
+608,idan/oauthlib,erikrose/more-itertools,OAuth,Functional Programming,0.2525346279144287
+609,idan/oauthlib,PyMySQL/mysqlclient-python,OAuth,MySQL,0.35293784737586975
+610,paramiko/paramiko,kevin1024/vcrpy,Cryptography,Mock,0.5072736740112305
+611,paramiko/paramiko,platformio/platformio-core,Cryptography,Build Tools,0.45734429359436035
+612,paramiko/paramiko,graphql-python/graphene,Cryptography,GraphQL,0.37984564900398254
+613,paramiko/paramiko,klen/mixer,Cryptography,Object Factories,0.23754200339317322
+614,paramiko/paramiko,seatgeek/sixpack,Cryptography,GUI / Web Testing,0.3993414044380188
+615,paramiko/paramiko,bpython/bpython,Cryptography,Interactive Interpreter,0.510724663734436
+616,paramiko/paramiko,dfunckt/django-rules,Cryptography,Permissions,0.41998720169067383
+617,paramiko/paramiko,coleifer/peewee,Cryptography,Relational Databases,0.3551243245601654
+618,paramiko/paramiko,pythonnet/pythonnet,Cryptography,Microsoft Windows,0.512895941734314
+619,paramiko/paramiko,python/typeshed,Cryptography,Static Type Checkers,0.35478830337524414
+620,paramiko/paramiko,KoffeinFlummi/Chronyk,Cryptography,Date and Time,0.3515506386756897
+621,paramiko/paramiko,isnowfy/snownlp,Cryptography,Natural Language Processing,-0.06005242094397545
+622,paramiko/paramiko,alecthomas/voluptuous,Cryptography,Data Validation,0.1963866949081421
+623,paramiko/paramiko,spulec/freezegun,Cryptography,Mock,0.2634921073913574
+624,paramiko/paramiko,maxmind/geoip-api-python,Cryptography,Geolocation,0.3128397464752197
+625,paramiko/paramiko,pallets/werkzeug,Cryptography,WSGI Servers,0.5846794843673706
+626,paramiko/paramiko,nvbn/thefuck,Cryptography,Productivity CLI Tools,0.46125832200050354
+627,paramiko/paramiko,benfred/implicit,Cryptography,Recommender Systems,0.1237974613904953
+628,paramiko/paramiko,erikrose/more-itertools,Cryptography,Functional Programming,0.366529643535614
+629,paramiko/paramiko,PyMySQL/mysqlclient-python,Cryptography,MySQL,0.4863351583480835
+630,kevin1024/vcrpy,platformio/platformio-core,Mock,Build Tools,0.38878288865089417
+631,kevin1024/vcrpy,graphql-python/graphene,Mock,GraphQL,0.37164831161499023
+632,kevin1024/vcrpy,klen/mixer,Mock,Object Factories,0.29769405722618103
+633,kevin1024/vcrpy,seatgeek/sixpack,Mock,GUI / Web Testing,0.4182950258255005
+634,kevin1024/vcrpy,bpython/bpython,Mock,Interactive Interpreter,0.4000292420387268
+635,kevin1024/vcrpy,dfunckt/django-rules,Mock,Permissions,0.5006034970283508
+636,kevin1024/vcrpy,coleifer/peewee,Mock,Relational Databases,0.4369332492351532
+637,kevin1024/vcrpy,pythonnet/pythonnet,Mock,Microsoft Windows,0.49449917674064636
+638,kevin1024/vcrpy,python/typeshed,Mock,Static Type Checkers,0.09999006986618042
+639,kevin1024/vcrpy,KoffeinFlummi/Chronyk,Mock,Date and Time,0.30745577812194824
+640,kevin1024/vcrpy,isnowfy/snownlp,Mock,Natural Language Processing,-0.02849769964814186
+641,kevin1024/vcrpy,alecthomas/voluptuous,Mock,Data Validation,0.05171819031238556
+642,kevin1024/vcrpy,spulec/freezegun,Mock,Mock,0.2722105383872986
+643,kevin1024/vcrpy,maxmind/geoip-api-python,Mock,Geolocation,0.40402185916900635
+644,kevin1024/vcrpy,pallets/werkzeug,Mock,WSGI Servers,0.6480344533920288
+645,kevin1024/vcrpy,nvbn/thefuck,Mock,Productivity CLI Tools,0.4989910125732422
+646,kevin1024/vcrpy,benfred/implicit,Mock,Recommender Systems,0.09816589951515198
+647,kevin1024/vcrpy,erikrose/more-itertools,Mock,Functional Programming,0.3920532763004303
+648,kevin1024/vcrpy,PyMySQL/mysqlclient-python,Mock,MySQL,0.37789854407310486
+649,platformio/platformio-core,graphql-python/graphene,Build Tools,GraphQL,0.2706984579563141
+650,platformio/platformio-core,klen/mixer,Build Tools,Object Factories,0.10001897811889648
+651,platformio/platformio-core,seatgeek/sixpack,Build Tools,GUI / Web Testing,0.27684035897254944
+652,platformio/platformio-core,bpython/bpython,Build Tools,Interactive Interpreter,0.33378496766090393
+653,platformio/platformio-core,dfunckt/django-rules,Build Tools,Permissions,0.2795872688293457
+654,platformio/platformio-core,coleifer/peewee,Build Tools,Relational Databases,0.17246568202972412
+655,platformio/platformio-core,pythonnet/pythonnet,Build Tools,Microsoft Windows,0.3546246588230133
+656,platformio/platformio-core,python/typeshed,Build Tools,Static Type Checkers,0.08834050595760345
+657,platformio/platformio-core,KoffeinFlummi/Chronyk,Build Tools,Date and Time,0.16179312765598297
+658,platformio/platformio-core,isnowfy/snownlp,Build Tools,Natural Language Processing,-0.13402986526489258
+659,platformio/platformio-core,alecthomas/voluptuous,Build Tools,Data Validation,0.08735943585634232
+660,platformio/platformio-core,spulec/freezegun,Build Tools,Mock,0.22435832023620605
+661,platformio/platformio-core,maxmind/geoip-api-python,Build Tools,Geolocation,0.25646841526031494
+662,platformio/platformio-core,pallets/werkzeug,Build Tools,WSGI Servers,0.2792041301727295
+663,platformio/platformio-core,nvbn/thefuck,Build Tools,Productivity CLI Tools,0.5521395206451416
+664,platformio/platformio-core,benfred/implicit,Build Tools,Recommender Systems,0.016492674127221107
+665,platformio/platformio-core,erikrose/more-itertools,Build Tools,Functional Programming,0.1551893949508667
+666,platformio/platformio-core,PyMySQL/mysqlclient-python,Build Tools,MySQL,0.25768280029296875
+667,graphql-python/graphene,klen/mixer,GraphQL,Object Factories,0.581871747970581
+668,graphql-python/graphene,seatgeek/sixpack,GraphQL,GUI / Web Testing,0.3447234034538269
+669,graphql-python/graphene,bpython/bpython,GraphQL,Interactive Interpreter,0.4821208715438843
+670,graphql-python/graphene,dfunckt/django-rules,GraphQL,Permissions,0.5237641930580139
+671,graphql-python/graphene,coleifer/peewee,GraphQL,Relational Databases,0.5825185179710388
+672,graphql-python/graphene,pythonnet/pythonnet,GraphQL,Microsoft Windows,0.7045475244522095
+673,graphql-python/graphene,python/typeshed,GraphQL,Static Type Checkers,0.38930773735046387
+674,graphql-python/graphene,KoffeinFlummi/Chronyk,GraphQL,Date and Time,0.38070857524871826
+675,graphql-python/graphene,isnowfy/snownlp,GraphQL,Natural Language Processing,-0.04734198749065399
+676,graphql-python/graphene,alecthomas/voluptuous,GraphQL,Data Validation,0.5856126546859741
+677,graphql-python/graphene,spulec/freezegun,GraphQL,Mock,0.372078001499176
+678,graphql-python/graphene,maxmind/geoip-api-python,GraphQL,Geolocation,0.3896558880805969
+679,graphql-python/graphene,pallets/werkzeug,GraphQL,WSGI Servers,0.49806156754493713
+680,graphql-python/graphene,nvbn/thefuck,GraphQL,Productivity CLI Tools,0.35238033533096313
+681,graphql-python/graphene,benfred/implicit,GraphQL,Recommender Systems,0.06669285893440247
+682,graphql-python/graphene,erikrose/more-itertools,GraphQL,Functional Programming,0.46738478541374207
+683,graphql-python/graphene,PyMySQL/mysqlclient-python,GraphQL,MySQL,0.5717542171478271
+684,klen/mixer,seatgeek/sixpack,Object Factories,GUI / Web Testing,0.3496517539024353
+685,klen/mixer,bpython/bpython,Object Factories,Interactive Interpreter,0.3179778456687927
+686,klen/mixer,dfunckt/django-rules,Object Factories,Permissions,0.45733508467674255
+687,klen/mixer,coleifer/peewee,Object Factories,Relational Databases,0.5259436368942261
+688,klen/mixer,pythonnet/pythonnet,Object Factories,Microsoft Windows,0.4693900942802429
+689,klen/mixer,python/typeshed,Object Factories,Static Type Checkers,0.3714127242565155
+690,klen/mixer,KoffeinFlummi/Chronyk,Object Factories,Date and Time,0.23100388050079346
+691,klen/mixer,isnowfy/snownlp,Object Factories,Natural Language Processing,0.006577220279723406
+692,klen/mixer,alecthomas/voluptuous,Object Factories,Data Validation,0.37205713987350464
+693,klen/mixer,spulec/freezegun,Object Factories,Mock,0.29616546630859375
+694,klen/mixer,maxmind/geoip-api-python,Object Factories,Geolocation,0.20954301953315735
+695,klen/mixer,pallets/werkzeug,Object Factories,WSGI Servers,0.3880096673965454
+696,klen/mixer,nvbn/thefuck,Object Factories,Productivity CLI Tools,0.22694313526153564
+697,klen/mixer,benfred/implicit,Object Factories,Recommender Systems,0.12174670398235321
+698,klen/mixer,erikrose/more-itertools,Object Factories,Functional Programming,0.33131879568099976
+699,klen/mixer,PyMySQL/mysqlclient-python,Object Factories,MySQL,0.40110233426094055
+700,seatgeek/sixpack,bpython/bpython,GUI / Web Testing,Interactive Interpreter,0.3222646117210388
+701,seatgeek/sixpack,dfunckt/django-rules,GUI / Web Testing,Permissions,0.48118478059768677
+702,seatgeek/sixpack,coleifer/peewee,GUI / Web Testing,Relational Databases,0.5102754831314087
+703,seatgeek/sixpack,pythonnet/pythonnet,GUI / Web Testing,Microsoft Windows,0.41209107637405396
+704,seatgeek/sixpack,python/typeshed,GUI / Web Testing,Static Type Checkers,0.12959598004817963
+705,seatgeek/sixpack,KoffeinFlummi/Chronyk,GUI / Web Testing,Date and Time,0.3598483204841614
+706,seatgeek/sixpack,isnowfy/snownlp,GUI / Web Testing,Natural Language Processing,0.06821257621049881
+707,seatgeek/sixpack,alecthomas/voluptuous,GUI / Web Testing,Data Validation,0.09925080835819244
+708,seatgeek/sixpack,spulec/freezegun,GUI / Web Testing,Mock,0.23572272062301636
+709,seatgeek/sixpack,maxmind/geoip-api-python,GUI / Web Testing,Geolocation,0.35548925399780273
+710,seatgeek/sixpack,pallets/werkzeug,GUI / Web Testing,WSGI Servers,0.3801141679286957
+711,seatgeek/sixpack,nvbn/thefuck,GUI / Web Testing,Productivity CLI Tools,0.33441755175590515
+712,seatgeek/sixpack,benfred/implicit,GUI / Web Testing,Recommender Systems,0.2579399347305298
+713,seatgeek/sixpack,erikrose/more-itertools,GUI / Web Testing,Functional Programming,0.36322885751724243
+714,seatgeek/sixpack,PyMySQL/mysqlclient-python,GUI / Web Testing,MySQL,0.3909792900085449
+715,bpython/bpython,dfunckt/django-rules,Interactive Interpreter,Permissions,0.45520660281181335
+716,bpython/bpython,coleifer/peewee,Interactive Interpreter,Relational Databases,0.44418811798095703
+717,bpython/bpython,pythonnet/pythonnet,Interactive Interpreter,Microsoft Windows,0.6330469250679016
+718,bpython/bpython,python/typeshed,Interactive Interpreter,Static Type Checkers,0.4524526596069336
+719,bpython/bpython,KoffeinFlummi/Chronyk,Interactive Interpreter,Date and Time,0.39499253034591675
+720,bpython/bpython,isnowfy/snownlp,Interactive Interpreter,Natural Language Processing,0.06072819232940674
+721,bpython/bpython,alecthomas/voluptuous,Interactive Interpreter,Data Validation,0.2681359648704529
+722,bpython/bpython,spulec/freezegun,Interactive Interpreter,Mock,0.3562161922454834
+723,bpython/bpython,maxmind/geoip-api-python,Interactive Interpreter,Geolocation,0.30261579155921936
+724,bpython/bpython,pallets/werkzeug,Interactive Interpreter,WSGI Servers,0.530499279499054
+725,bpython/bpython,nvbn/thefuck,Interactive Interpreter,Productivity CLI Tools,0.6170812845230103
+726,bpython/bpython,benfred/implicit,Interactive Interpreter,Recommender Systems,0.04859044402837753
+727,bpython/bpython,erikrose/more-itertools,Interactive Interpreter,Functional Programming,0.554469883441925
+728,bpython/bpython,PyMySQL/mysqlclient-python,Interactive Interpreter,MySQL,0.46297240257263184
+729,dfunckt/django-rules,coleifer/peewee,Permissions,Relational Databases,0.5521509051322937
+730,dfunckt/django-rules,pythonnet/pythonnet,Permissions,Microsoft Windows,0.5988377928733826
+731,dfunckt/django-rules,python/typeshed,Permissions,Static Type Checkers,0.29297029972076416
+732,dfunckt/django-rules,KoffeinFlummi/Chronyk,Permissions,Date and Time,0.3091987669467926
+733,dfunckt/django-rules,isnowfy/snownlp,Permissions,Natural Language Processing,-0.04046854376792908
+734,dfunckt/django-rules,alecthomas/voluptuous,Permissions,Data Validation,0.30748671293258667
+735,dfunckt/django-rules,spulec/freezegun,Permissions,Mock,0.277621328830719
+736,dfunckt/django-rules,maxmind/geoip-api-python,Permissions,Geolocation,0.32684534788131714
+737,dfunckt/django-rules,pallets/werkzeug,Permissions,WSGI Servers,0.5078436136245728
+738,dfunckt/django-rules,nvbn/thefuck,Permissions,Productivity CLI Tools,0.4621735215187073
+739,dfunckt/django-rules,benfred/implicit,Permissions,Recommender Systems,0.11241520941257477
+740,dfunckt/django-rules,erikrose/more-itertools,Permissions,Functional Programming,0.469843327999115
+741,dfunckt/django-rules,PyMySQL/mysqlclient-python,Permissions,MySQL,0.37910354137420654
+742,coleifer/peewee,pythonnet/pythonnet,Relational Databases,Microsoft Windows,0.5504391193389893
+743,coleifer/peewee,python/typeshed,Relational Databases,Static Type Checkers,0.21253542602062225
+744,coleifer/peewee,KoffeinFlummi/Chronyk,Relational Databases,Date and Time,0.4026558995246887
+745,coleifer/peewee,isnowfy/snownlp,Relational Databases,Natural Language Processing,0.1283380389213562
+746,coleifer/peewee,alecthomas/voluptuous,Relational Databases,Data Validation,0.16015006601810455
+747,coleifer/peewee,spulec/freezegun,Relational Databases,Mock,0.2612936794757843
+748,coleifer/peewee,maxmind/geoip-api-python,Relational Databases,Geolocation,0.4533725678920746
+749,coleifer/peewee,pallets/werkzeug,Relational Databases,WSGI Servers,0.40570127964019775
+750,coleifer/peewee,nvbn/thefuck,Relational Databases,Productivity CLI Tools,0.36134082078933716
+751,coleifer/peewee,benfred/implicit,Relational Databases,Recommender Systems,0.24831372499465942
+752,coleifer/peewee,erikrose/more-itertools,Relational Databases,Functional Programming,0.5496526956558228
+753,coleifer/peewee,PyMySQL/mysqlclient-python,Relational Databases,MySQL,0.6943016052246094
+754,pythonnet/pythonnet,python/typeshed,Microsoft Windows,Static Type Checkers,0.3634873032569885
+755,pythonnet/pythonnet,KoffeinFlummi/Chronyk,Microsoft Windows,Date and Time,0.48246172070503235
+756,pythonnet/pythonnet,isnowfy/snownlp,Microsoft Windows,Natural Language Processing,0.02745172753930092
+757,pythonnet/pythonnet,alecthomas/voluptuous,Microsoft Windows,Data Validation,0.3454490303993225
+758,pythonnet/pythonnet,spulec/freezegun,Microsoft Windows,Mock,0.41173920035362244
+759,pythonnet/pythonnet,maxmind/geoip-api-python,Microsoft Windows,Geolocation,0.4610835313796997
+760,pythonnet/pythonnet,pallets/werkzeug,Microsoft Windows,WSGI Servers,0.5301190614700317
+761,pythonnet/pythonnet,nvbn/thefuck,Microsoft Windows,Productivity CLI Tools,0.4592001438140869
+762,pythonnet/pythonnet,benfred/implicit,Microsoft Windows,Recommender Systems,0.1930904984474182
+763,pythonnet/pythonnet,erikrose/more-itertools,Microsoft Windows,Functional Programming,0.6914114356040955
+764,pythonnet/pythonnet,PyMySQL/mysqlclient-python,Microsoft Windows,MySQL,0.555899441242218
+765,python/typeshed,KoffeinFlummi/Chronyk,Static Type Checkers,Date and Time,0.21584689617156982
+766,python/typeshed,isnowfy/snownlp,Static Type Checkers,Natural Language Processing,0.061320409178733826
+767,python/typeshed,alecthomas/voluptuous,Static Type Checkers,Data Validation,0.47892025113105774
+768,python/typeshed,spulec/freezegun,Static Type Checkers,Mock,0.29713568091392517
+769,python/typeshed,maxmind/geoip-api-python,Static Type Checkers,Geolocation,0.060398269444704056
+770,python/typeshed,pallets/werkzeug,Static Type Checkers,WSGI Servers,0.5324167609214783
+771,python/typeshed,nvbn/thefuck,Static Type Checkers,Productivity CLI Tools,0.1729462891817093
+772,python/typeshed,benfred/implicit,Static Type Checkers,Recommender Systems,-0.046914488077163696
+773,python/typeshed,erikrose/more-itertools,Static Type Checkers,Functional Programming,0.30168285965919495
+774,python/typeshed,PyMySQL/mysqlclient-python,Static Type Checkers,MySQL,0.29709166288375854
+775,KoffeinFlummi/Chronyk,isnowfy/snownlp,Date and Time,Natural Language Processing,0.10095451772212982
+776,KoffeinFlummi/Chronyk,alecthomas/voluptuous,Date and Time,Data Validation,0.20576560497283936
+777,KoffeinFlummi/Chronyk,spulec/freezegun,Date and Time,Mock,0.6919907331466675
+778,KoffeinFlummi/Chronyk,maxmind/geoip-api-python,Date and Time,Geolocation,0.34660011529922485
+779,KoffeinFlummi/Chronyk,pallets/werkzeug,Date and Time,WSGI Servers,0.33289143443107605
+780,KoffeinFlummi/Chronyk,nvbn/thefuck,Date and Time,Productivity CLI Tools,0.32914596796035767
+781,KoffeinFlummi/Chronyk,benfred/implicit,Date and Time,Recommender Systems,0.11021155118942261
+782,KoffeinFlummi/Chronyk,erikrose/more-itertools,Date and Time,Functional Programming,0.44295451045036316
+783,KoffeinFlummi/Chronyk,PyMySQL/mysqlclient-python,Date and Time,MySQL,0.584226131439209
+784,isnowfy/snownlp,alecthomas/voluptuous,Natural Language Processing,Data Validation,0.023155374452471733
+785,isnowfy/snownlp,spulec/freezegun,Natural Language Processing,Mock,-0.03862564265727997
+786,isnowfy/snownlp,maxmind/geoip-api-python,Natural Language Processing,Geolocation,0.07174772024154663
+787,isnowfy/snownlp,pallets/werkzeug,Natural Language Processing,WSGI Servers,0.03907383978366852
+788,isnowfy/snownlp,nvbn/thefuck,Natural Language Processing,Productivity CLI Tools,-0.05039738118648529
+789,isnowfy/snownlp,benfred/implicit,Natural Language Processing,Recommender Systems,0.4051872491836548
+790,isnowfy/snownlp,erikrose/more-itertools,Natural Language Processing,Functional Programming,0.1701260209083557
+791,isnowfy/snownlp,PyMySQL/mysqlclient-python,Natural Language Processing,MySQL,-0.016652774065732956
+792,alecthomas/voluptuous,spulec/freezegun,Data Validation,Mock,0.2042384147644043
+793,alecthomas/voluptuous,maxmind/geoip-api-python,Data Validation,Geolocation,0.058855824172496796
+794,alecthomas/voluptuous,pallets/werkzeug,Data Validation,WSGI Servers,0.41978341341018677
+795,alecthomas/voluptuous,nvbn/thefuck,Data Validation,Productivity CLI Tools,0.0812118649482727
+796,alecthomas/voluptuous,benfred/implicit,Data Validation,Recommender Systems,-0.03776025027036667
+797,alecthomas/voluptuous,erikrose/more-itertools,Data Validation,Functional Programming,0.2972264885902405
+798,alecthomas/voluptuous,PyMySQL/mysqlclient-python,Data Validation,MySQL,0.3091459274291992
+799,spulec/freezegun,maxmind/geoip-api-python,Mock,Geolocation,0.19989041984081268
+800,spulec/freezegun,pallets/werkzeug,Mock,WSGI Servers,0.31174302101135254
+801,spulec/freezegun,nvbn/thefuck,Mock,Productivity CLI Tools,0.2750905156135559
+802,spulec/freezegun,benfred/implicit,Mock,Recommender Systems,0.08043643087148666
+803,spulec/freezegun,erikrose/more-itertools,Mock,Functional Programming,0.2681715488433838
+804,spulec/freezegun,PyMySQL/mysqlclient-python,Mock,MySQL,0.5004008412361145
+805,maxmind/geoip-api-python,pallets/werkzeug,Geolocation,WSGI Servers,0.32985177636146545
+806,maxmind/geoip-api-python,nvbn/thefuck,Geolocation,Productivity CLI Tools,0.2431180477142334
+807,maxmind/geoip-api-python,benfred/implicit,Geolocation,Recommender Systems,0.08567491173744202
+808,maxmind/geoip-api-python,erikrose/more-itertools,Geolocation,Functional Programming,0.3885880708694458
+809,maxmind/geoip-api-python,PyMySQL/mysqlclient-python,Geolocation,MySQL,0.4231607913970947
+810,pallets/werkzeug,nvbn/thefuck,WSGI Servers,Productivity CLI Tools,0.3219890892505646
+811,pallets/werkzeug,benfred/implicit,WSGI Servers,Recommender Systems,0.014346187934279442
+812,pallets/werkzeug,erikrose/more-itertools,WSGI Servers,Functional Programming,0.49519583582878113
+813,pallets/werkzeug,PyMySQL/mysqlclient-python,WSGI Servers,MySQL,0.44948461651802063
+814,nvbn/thefuck,benfred/implicit,Productivity CLI Tools,Recommender Systems,-0.010736702010035515
+815,nvbn/thefuck,erikrose/more-itertools,Productivity CLI Tools,Functional Programming,0.36180591583251953
+816,nvbn/thefuck,PyMySQL/mysqlclient-python,Productivity CLI Tools,MySQL,0.31887727975845337
+817,benfred/implicit,erikrose/more-itertools,Recommender Systems,Functional Programming,0.2337041199207306
+818,benfred/implicit,PyMySQL/mysqlclient-python,Recommender Systems,MySQL,0.07841958850622177
+819,erikrose/more-itertools,PyMySQL/mysqlclient-python,Functional Programming,MySQL,0.4919061064720154
