@@ -41,6 +41,7 @@
     * **repo_info_train_requirements_embeddings.pkl** --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
     * **repo_info_train_readme_embeddings.pkl** --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
     * **repo_info_train_embeddings.pkl** --> 1gYpZW-rWdyOskNgbwDrmOg_Ij4nMJ6_V
+    * **repo_info_train_embeddings_reduce.pkl** --> 1y5jxTq6m0hAoXOaSzM2mmJLUu5FqnSra
   * validation set
     * **repo_info_validation_code_embeddings.pkl** --> 1EYm03h0z373Y214gcLku5ko8tC7l311p
     * **repo_info_validation_doc_embeddings.pkl** --> 1cAes4txSkMVzpTXPLKjETz9zEYoEHPDD
@@ -48,6 +49,7 @@
     * **repo_info_validation_requirements_embeddings.pkl** --> 1DL4nB6-B17bqXH7CD9ry4ORdrHWFyC8i
     * **repo_info_validation_readme_embeddings.pkl** --> 164O8Z9AhRpWGLoe19dk450W0LOyvvjBo
     * **repo_info_validation_embeddings.pkl** --> 1WOqffTwS2AA8KDYOcA78vg_tCtVhx71T
+    * **repo_info_validation_embeddings_reduce.pkl** --> 1ycDl-XWFuPU2kImiEdMfLL3eypTvwpyR
   * test set
     * **repo_info_test_code_embeddings.pkl** --> 1--2BIZ8uLcA3nX7qi5bCZjNNoEH44df5
     * **repo_info_test_doc_embeddings.pkl** --> 1--TXKRxtzki9GhOR363NC9Z8vI4xC5Lb
@@ -55,6 +57,7 @@
     * **repo_info_test_requirements_embeddings.pkl** --> 1-AVqEQvzyT6cR9lKkyNhiz1I47dwMyY2
     * **repo_info_test_readme_embeddings.pkl** --> 1-10YFqwzqCVEGe4OVBiRtD1feeHPbdTz
     * **repo_info_test_embeddings.pkl** --> 1x4g24q2qKW2oqKemVmerxZkZ9ZCzvlZK
+    * **repo_info_test_embeddings_reduce.pkl** --> 1LM-VGCJdQ6IPct0i2UiOOjkVYEQHVnm_
 * The above files were generated because of a lack of computing power, so embedding had to be done separately for each dataset. Using **"xxx"** to represent the type of dataset, and using **"ooo"** to represent the type of embedding.
 You can access information what you wanted by the following way:
   * **repo_info_xxx_ooo_embeddings["repo_name"]["codes"]**: using the same way to access essential feature
