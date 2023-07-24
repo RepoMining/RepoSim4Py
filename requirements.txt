@@ -1,0 +1,4 @@
+accelerate
+torch
+numpy
+transformers
