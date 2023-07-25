@@ -1,4 +1,6 @@
 # Embeddings for train set
+Generating embeddings for textual data is a key process when scientists dig more features, research more works, and explore further development of a project about natural language processing(NLP).
+In this term, we will use fine-tuning models (based on Transformer architecture) to generate embeddings.
 
 ## Pre-conditions
 In order to generate embedding for repositories, observing dataset is an essential thing.
