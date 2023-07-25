@@ -1,4 +1,10 @@
 accelerate
 torch
 numpy
+pandas
 transformers
+sentence-transformers
+tqdm
+inspect4py
+scikit-learn
+matplotlib
