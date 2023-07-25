@@ -1,69 +1,22 @@
-# Content
-## Importance: Note each pickle (".pkl") file is a python "dict" !!!
-## Original data
-```bash
-├── README.md
-├── REPOS.pkl # (repository, label) pairs
-├── REPOS_test.pkl # (repository, label) pairs -> test
-├── REPOS_train.pkl # (repository, label) pairs -> train
-├── REPOS_validation.pkl # (repository, label) pairs -> validation
-├── all_data.json # The original json data
-└── dataset_processing.ipynb # Processing dataset
-```
-## Generated data
+# Dataset: Awesome Python
+This dataset contains list of awesome Python frameworks, libraries, software and resources. 
+It supports list of names and types of GitHub repositories, which can support researchers and developers to do series of data mining works.
+Considering the details of a repository, we can dig collection of textual data such as codes, documents, requirements, README, etc.
+These textual data can be used for various natural language processing (NLP) tasks, such as text classification, summarization, and language modeling.
 
-### Repository information
-* By using _**inspect4py**_ on each repository, we can generate such features for each repository.
-  * codes
-  * docs
-  * structure
-  * requirements
-  * readme
-  * topic
-* We finally generated **three** **pickle** **files** of **train, validation, test set**.
-  * **repo_info_train.pkl** --> 13Z-ReDj4QcwlfvIgUlL6MNE5W2dcPmLr
-  * **repo_info_validation.pkl** --> 12njH7JojRSgK6yzfHmhdZSrnfVN9x9NQ
-  * **repo_info_test.pkl** --> 1EE5y_u2_RTWk0k1Z2RwELj1eHoc7WeH_
-* You can read each _**pickle**_ file, and using the following way to access each feature of repository. For example, using **"xxx"** to represent a data set:
-  * **repo_info_xxx["repo_name"]["codes"]**: code list
-  * **repo_info_xxx["repo_name"]["docs"]**: doc list
-  * **repo_info_xxx["repo_name"]["structure"]**: structure list
-  * **repo_info_xxx["repo_name"]["requirements"]**: requirement list
-  * **repo_info_xxx["repo_name"]["readme"]**: readme list
-  * **repo_info_xxx["repo_name"]["topic"]**: repository topic
+## Dataset Description
+* Encoding: UTF-8
+* "awesome-python": https://github.com/vinta/awesome-python
 
-### Repository embedding information
-* Based on **Repository information**, we also generated a series of **pickle** files for describing **embedding** information.
-  * train set
-    * **repo_info_train_code_embeddings.pkl** --> 1-HkKRI2PLxoTnUOJryONkqtGfvk4Y-xm
-    * **repo_info_train_doc_embeddings.pkl** --> 19A75A4XeOFL6wj7SHM2_mA8Nf398PcxW
-    * **repo_info_train_structure_embeddings.pkl** --> 18rUC069v0x8KwdPZn1o0ptKE4I4a-Yxm
-    * **repo_info_train_requirements_embeddings.pkl** --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
-    * **repo_info_train_readme_embeddings.pkl** --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
-    * **repo_info_train_embeddings.pkl** --> 1gYpZW-rWdyOskNgbwDrmOg_Ij4nMJ6_V
-    * **repo_info_train_embeddings_reduce.pkl** --> 1y5jxTq6m0hAoXOaSzM2mmJLUu5FqnSra
-  * validation set
-    * **repo_info_validation_code_embeddings.pkl** --> 1EYm03h0z373Y214gcLku5ko8tC7l311p
-    * **repo_info_validation_doc_embeddings.pkl** --> 1cAes4txSkMVzpTXPLKjETz9zEYoEHPDD
-    * **repo_info_validation_structure_embeddings.pkl** --> 1IgyUSw3C9w4ICj5l_cbxU0tWH3Tw6F-O
-    * **repo_info_validation_requirements_embeddings.pkl** --> 1DL4nB6-B17bqXH7CD9ry4ORdrHWFyC8i
-    * **repo_info_validation_readme_embeddings.pkl** --> 164O8Z9AhRpWGLoe19dk450W0LOyvvjBo
-    * **repo_info_validation_embeddings.pkl** --> 1WOqffTwS2AA8KDYOcA78vg_tCtVhx71T
-    * **repo_info_validation_embeddings_reduce.pkl** --> 1ycDl-XWFuPU2kImiEdMfLL3eypTvwpyR
-  * test set
-    * **repo_info_test_code_embeddings.pkl** --> 1--2BIZ8uLcA3nX7qi5bCZjNNoEH44df5
-    * **repo_info_test_doc_embeddings.pkl** --> 1--TXKRxtzki9GhOR363NC9Z8vI4xC5Lb
-    * **repo_info_test_structure_embeddings.pkl** --> 1-1xfdTZG6fjW9NRSRVJXwPjiAioLF-3X
-    * **repo_info_test_requirements_embeddings.pkl** --> 1-AVqEQvzyT6cR9lKkyNhiz1I47dwMyY2
-    * **repo_info_test_readme_embeddings.pkl** --> 1-10YFqwzqCVEGe4OVBiRtD1feeHPbdTz
-    * **repo_info_test_embeddings.pkl** --> 1x4g24q2qKW2oqKemVmerxZkZ9ZCzvlZK
-    * **repo_info_test_embeddings_reduce.pkl** --> 1LM-VGCJdQ6IPct0i2UiOOjkVYEQHVnm_
-* The above files were generated because of a lack of computing power, so embedding had to be done separately for each dataset. Using **"xxx"** to represent the type of dataset, and using **"ooo"** to represent the type of embedding.
-You can access information what you wanted by the following way:
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["codes"]**: using the same way to access essential feature
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]**: **repo_info_xxx_ooo_embeddings.pkl** file can only access **ooo_embeddings**, because of the lack of computing power.
-  * **repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]**: each **repo_info_xxx_embeddings.pkl** is an aggregation of all embeddings. You can assess all embeddings using these **pickle** files.
-* More important, we saved each embedding generated by a series of models (**UniXcoder** model, **Sentence-transformer** model). You can access them by the following way:
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]**: If the type of this embedding is a **torch.Tensor**, that means this embedding is a **zero embedding** (**torch.zeros((768,))**) whatever the model you are using is.
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**: You can get this embedding generated by a certain model, and the embedding shape also is (768,). The model that each embedding has can be found in evaluation process.
-  * **repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**: the same way likes **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**
+## Original File Description
+* **_all_data.json_**: A JSON file about awesome-python whose key is the category of repository and value is list of repositories that categorize to key.
+
+## Preprocessing Scripts
+* **_dataset_processing.ipynb_**: A Jupyter Notebook to clean invalid repositories based on its name, and to split dataset to train, validation, and test set.
+
+## Final File Description
+### Note: each pickle (".pkl") file is a python "dict" !!!
+* **_REPOS.pkl_**: Containing all repositories with _(repository_name, label)_ format.
+* **_REPOS_train.pkl_**: Containing train set repositories with _(repository_name, label)_ format.
+* **_REPOS_validation.pkl_**: Containing validation set repositories with _(repository_name, label)_ format.
+* **_REPOS_test.pkl_**: Containing test set repositories with _(repository_name, label)_ format.

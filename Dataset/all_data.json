@@ -89,7 +89,6 @@
         "jendrikseipp/vulture"
     ],
     "Code Linters": [
-        "DmytroLitvinov/awesome-flake8-extensions",
         "klen/pylama",
         "wemake-services/wemake-python-styleguide"
     ],
@@ -179,7 +178,6 @@
         "bloomberg/bqplot",
         "SciTools/cartopy",
         "mingrammer/diagrams",
-        "has2k1/plotnine",
         "mwaskom/seaborn",
         "vispy/vispy"
     ],
@@ -247,7 +245,6 @@
         "keras-team/keras",
         "dmlc/mxnet",
         "SerpentAI/SerpentAI",
-        "tensorflow/tensorflow",
         "Theano/Theano"
     ],
     "Configuration Management": [
@@ -261,7 +258,6 @@
         "fabtools/fabtools"
     ],
     "Process Management": [
-        "ddollar/foreman",
         "Supervisor/supervisor"
     ],
     "Monitoring": [
@@ -398,7 +394,6 @@
         "daboth/pagan",
         "python-pillow/Pillow",
         "WhyNotHugo/python-barcode",
-        "ajkumar25/pygram",
         "lincolnloop/python-qrcode",
         "dylanaraps/pywal",
         "libvips/pyvips",
@@ -503,7 +498,6 @@
         "spotify/annoy",
         "ibayer/fastFM",
         "benfred/implicit",
-        "guestwalk/libffm",
         "maciejkula/spotlight",
         "NicolasHug/Surprise",
         "jfkirk/tensorrec"
@@ -711,8 +705,6 @@
         "jmcarp/robobrowser"
     ],
     "Synchronous": [
-        "humiaozuzu/awesome-flask",
-        "uralbash/awesome-pyramid",
         "MasoniteFramework/masonite"
     ],
     "WebSocket": [
