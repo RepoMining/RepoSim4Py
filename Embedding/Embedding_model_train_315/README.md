@@ -36,7 +36,7 @@ Such essential information will be shown on the following:
 ### 2. Generating different-level embeddings using different models.
 After we get essential information of each repository, we can use different fine-tuning models to generate different-level embeddings.
 In each sub-folder named **"ooo_embedding_evaluation_train_315"**, where **"ooo"** means a level, you can find the following four things:
-* **UniXcoder**: A pre-trained model can be used to such fine-tuning model based on UniXcoder.
+* **UniXcoder**: A pre-trained model can be adapted to such fine-tuning model based on UniXcoder.
 * **Evaluation Jupyter Notebook**: A notebook for evaluating on different-level embeddings.
 * **Evaluation result**: A ".png" file for describing the ROC curve on different-level embeddings.
 * **Similarity calculation**: A ".csv" file for saving similarity calculation information on different-level embeddings by using different fine-tuning models.
@@ -56,7 +56,7 @@ In this step, we will aggregate those 5 files into 1 aggregation file.
 
 **repo_info_train_embeddings.pkl**: The result of aggregation, the link will be putted into **Appendix.md**.
 
-### 4. Choosing the best model
+### 4. Evaluation
 The second step shows the evaluation results about different models. 
 In this step, we will choose the best model for calculation similarity.
 
