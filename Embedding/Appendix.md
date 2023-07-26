@@ -2,56 +2,56 @@
 
 ## Repository Essential information
 ### Google Drive Link
-* **repo_info_train.pkl** --> 13Z-ReDj4QcwlfvIgUlL6MNE5W2dcPmLr
-* **repo_info_validation.pkl** --> 12njH7JojRSgK6yzfHmhdZSrnfVN9x9NQ
-* **repo_info_test.pkl** --> 1EE5y_u2_RTWk0k1Z2RwELj1eHoc7WeH_
+* `repo_info_train.pkl` --> 13Z-ReDj4QcwlfvIgUlL6MNE5W2dcPmLr
+* `repo_info_validation.pkl` --> 12njH7JojRSgK6yzfHmhdZSrnfVN9x9NQ
+* `repo_info_test.pkl` --> 1EE5y_u2_RTWk0k1Z2RwELj1eHoc7WeH_
 ### Access
-You can read each ".pkl" file, and using the following way to access each feature of repository. For example, using **"xxx"** to represent a data set:
-  * **repo_info_xxx["repo_name"]["codes"]**: code list
-  * **repo_info_xxx["repo_name"]["docs"]**: doc list
-  * **repo_info_xxx["repo_name"]["structure"]**: structure list
-  * **repo_info_xxx["repo_name"]["requirements"]**: requirement list
-  * **repo_info_xxx["repo_name"]["readme"]**: readme list
-  * **repo_info_xxx["repo_name"]["topic"]**: repository topic
+You can read each `.pkl` file, and using the following way to access each feature of repository. For example, using `xxx` to represent a data set:
+  * `repo_info_xxx["repo_name"]["codes"]`: code list
+  * `repo_info_xxx["repo_name"]["docs"]`: doc list
+  * `repo_info_xxx["repo_name"]["structure"]`: structure list
+  * `repo_info_xxx["repo_name"]["requirements"]`: requirement list
+  * `repo_info_xxx["repo_name"]["readme"]`: readme list
+  * `repo_info_xxx["repo_name"]["topic"]`: repository topic
 
 ## Repository Embedding information
 ### Train set
-* **repo_info_train_code_embeddings.pkl** --> 1-HkKRI2PLxoTnUOJryONkqtGfvk4Y-xm
-* **repo_info_train_doc_embeddings.pkl** --> 19A75A4XeOFL6wj7SHM2_mA8Nf398PcxW
-* **repo_info_train_structure_embeddings.pkl** --> 18rUC069v0x8KwdPZn1o0ptKE4I4a-Yxm
-* **repo_info_train_requirements_embeddings.pkl** --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
-* **repo_info_train_readme_embeddings.pkl** --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
-* **repo_info_train_embeddings.pkl** --> 1gYpZW-rWdyOskNgbwDrmOg_Ij4nMJ6_V
-* **repo_info_train_embeddings_reduce.pkl** --> 1y5jxTq6m0hAoXOaSzM2mmJLUu5FqnSra
+* `repo_info_train_code_embeddings.pkl` --> 1-HkKRI2PLxoTnUOJryONkqtGfvk4Y-xm
+* `repo_info_train_doc_embeddings.pkl` --> 19A75A4XeOFL6wj7SHM2_mA8Nf398PcxW
+* `repo_info_train_structure_embeddings.pkl` --> 18rUC069v0x8KwdPZn1o0ptKE4I4a-Yxm
+* `repo_info_train_requirements_embeddings.pkl` --> 1KXSXEyYoEgCa_d7ty9fGN5hE_hXUwGyL
+* `repo_info_train_readme_embeddings.pkl` --> 1unQtAQXUh-18b1CFT25ehu7igbxPwSb6
+* `repo_info_train_embeddings.pkl` --> 1gYpZW-rWdyOskNgbwDrmOg_Ij4nMJ6_V
+* `repo_info_train_embeddings_reduce.pkl` --> 1y5jxTq6m0hAoXOaSzM2mmJLUu5FqnSra
 
 ### Validation set
-* **repo_info_validation_code_embeddings.pkl** --> 1EYm03h0z373Y214gcLku5ko8tC7l311p
-* **repo_info_validation_doc_embeddings.pkl** --> 1cAes4txSkMVzpTXPLKjETz9zEYoEHPDD
-* **repo_info_validation_structure_embeddings.pkl** --> 1IgyUSw3C9w4ICj5l_cbxU0tWH3Tw6F-O
-* **repo_info_validation_requirements_embeddings.pkl** --> 1DL4nB6-B17bqXH7CD9ry4ORdrHWFyC8i
-* **repo_info_validation_readme_embeddings.pkl** --> 164O8Z9AhRpWGLoe19dk450W0LOyvvjBo
-* **repo_info_validation_embeddings.pkl** --> 1WOqffTwS2AA8KDYOcA78vg_tCtVhx71T
-* **repo_info_validation_embeddings_reduce.pkl** --> 1ycDl-XWFuPU2kImiEdMfLL3eypTvwpyR
+* `repo_info_validation_code_embeddings.pkl` --> 1EYm03h0z373Y214gcLku5ko8tC7l311p
+* `repo_info_validation_doc_embeddings.pkl` --> 1cAes4txSkMVzpTXPLKjETz9zEYoEHPDD
+* `repo_info_validation_structure_embeddings.pkl` --> 1IgyUSw3C9w4ICj5l_cbxU0tWH3Tw6F-O
+* `repo_info_validation_requirements_embeddings.pkl` --> 1DL4nB6-B17bqXH7CD9ry4ORdrHWFyC8i
+* `repo_info_validation_readme_embeddings.pkl` --> 164O8Z9AhRpWGLoe19dk450W0LOyvvjBo
+* `repo_info_validation_embeddings.pkl` --> 1WOqffTwS2AA8KDYOcA78vg_tCtVhx71T
+* `repo_info_validation_embeddings_reduce.pkl` --> 1ycDl-XWFuPU2kImiEdMfLL3eypTvwpyR
 
 ### Test set
-* **repo_info_test_code_embeddings.pkl** --> 1--2BIZ8uLcA3nX7qi5bCZjNNoEH44df5
-* **repo_info_test_doc_embeddings.pkl** --> 1--TXKRxtzki9GhOR363NC9Z8vI4xC5Lb
-* **repo_info_test_structure_embeddings.pkl** --> 1-1xfdTZG6fjW9NRSRVJXwPjiAioLF-3X
-* **repo_info_test_requirements_embeddings.pkl** --> 1-AVqEQvzyT6cR9lKkyNhiz1I47dwMyY2
-* **repo_info_test_readme_embeddings.pkl** --> 1-10YFqwzqCVEGe4OVBiRtD1feeHPbdTz
-* **repo_info_test_embeddings.pkl** --> 1x4g24q2qKW2oqKemVmerxZkZ9ZCzvlZK
-* **repo_info_test_embeddings_reduce.pkl** --> 1LM-VGCJdQ6IPct0i2UiOOjkVYEQHVnm_
+* `repo_info_test_code_embeddings.pkl` --> 1--2BIZ8uLcA3nX7qi5bCZjNNoEH44df5
+* `repo_info_test_doc_embeddings.pkl` --> 1--TXKRxtzki9GhOR363NC9Z8vI4xC5Lb
+* `repo_info_test_structure_embeddings.pkl` --> 1-1xfdTZG6fjW9NRSRVJXwPjiAioLF-3X
+* `repo_info_test_requirements_embeddings.pkl` --> 1-AVqEQvzyT6cR9lKkyNhiz1I47dwMyY2
+* `repo_info_test_readme_embeddings.pkl` --> 1-10YFqwzqCVEGe4OVBiRtD1feeHPbdTz
+* `repo_info_test_embeddings.pkl` --> 1x4g24q2qKW2oqKemVmerxZkZ9ZCzvlZK
+* `repo_info_test_embeddings_reduce.pkl` --> 1LM-VGCJdQ6IPct0i2UiOOjkVYEQHVnm_
 
 ### Access
-* Using **"xxx"** to represent the type of dataset, and using **"ooo"** to represent the type of embedding.
+* Using `xxx` to represent the type of dataset, and using `ooo` to represent the type of embedding.
 You can access information what you wanted by the following way:
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["codes"]**: using the same way to access essential information.
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]**: **repo_info_xxx_ooo_embeddings.pkl** file can only access **ooo_embeddings**.
-  * **repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]**: each **repo_info_xxx_embeddings.pkl** is an aggregation of all embeddings. You can assess all embeddings using these ".pkl" files.
-* More important, we saved each embedding generated by a series of models (**UniXcoder** model, **Sentence-transformer** model). You can access them by the following way:
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]**: If the type of this embedding is a **torch.Tensor**, that means this embedding is a **zero embedding** (**torch.zeros((768,))**) whatever the model you are using is.
-  * **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**: You can get this embedding generated by a certain model. The model that each embedding has can be found in evaluation process.
-  * **repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**: the same way likes **repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]**.
-* Moreover, we choose the best model for the further work. We put the embeddings from the best model into reduced ".pkl" file.
+  * `repo_info_xxx_ooo_embeddings["repo_name"]["codes"]`: using the same way to access essential information.
+  * `repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]`: `repo_info_xxx_ooo_embeddings.pkl` file can only access `ooo_embeddings`.
+  * `repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]`: each `repo_info_xxx_embeddings.pkl` is an aggregation of all embeddings. You can assess all embeddings using these `.pkl` files.
+* More important, we saved each embedding generated by a series of models (`UniXcoder` model, `Sentence-transformer` model). You can access them by the following way:
+  * `repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]`: If the type of this embedding is a `torch.Tensor`, that means this embedding is a `zero embedding` (`torch.zeros((768,))`) whatever the model you are using is.
+  * `repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]`: You can get this embedding generated by a certain model. The model that each embedding has can be found in evaluation process.
+  * `repo_info_xxx_embeddings["repo_name"]["ooo_embeddings"]["model_name"]`: the same way likes `repo_info_xxx_ooo_embeddings["repo_name"]["ooo_embeddings"]["model_name"]`.
+* Moreover, we choose the best model for the further work. We put the embeddings from the best model into reduced `.pkl` file.
 You can access embeddings from the best model by the following way:
-  * **repo_info_xxx_embeddings_reduce["repo_name"]["ooo_embeddings"]**: Only contain the embeddings generated by the best model.
+  * `repo_info_xxx_embeddings_reduce["repo_name"]["ooo_embeddings"]`: Only contain the embeddings generated by the best model.

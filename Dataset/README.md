@@ -6,17 +6,17 @@ These textual data can be used for various natural language processing (NLP) tas
 
 ## Dataset Description
 * Encoding: UTF-8
-* "awesome-python": https://github.com/vinta/awesome-python
+* `awesome-python`: https://github.com/vinta/awesome-python
 
 ## Original File Description
-* **all_data.json**: A JSON file about awesome-python whose key is the category of repository and value is list of repositories that categorize to key.
+* `all_data.json`: A JSON file about awesome-python whose key is the category of repository and value is list of repositories that categorize to key.
 
 ## Preprocessing Scripts
-* **dataset_processing.ipynb**: A Jupyter Notebook to clean invalid repositories based on its name, and to split dataset to train, validation, and test set.
+* `dataset_processing.ipynb`: A Jupyter Notebook to clean invalid repositories based on its name, and to split dataset to train, validation, and test set.
 
 ## Final File Description
-### Note: each pickle (".pkl") file is a python "dict" !!!
-* **REPOS.pkl**: Containing all repositories with _(repository_name, label)_ format.
-* **REPOS_train.pkl**: Containing train set repositories with _(repository_name, label)_ format.
-* **REPOS_validation.pkl**: Containing validation set repositories with _(repository_name, label)_ format.
-* **REPOS_test.pkl**: Containing test set repositories with _(repository_name, label)_ format.
+### Note: each pickle (`.pkl`) file is a python `dict` !!!
+* `REPOS.pkl`: Containing all repositories with _(repository_name, label)_ format.
+* `REPOS_train.pkl`: Containing train set repositories with _(repository_name, label)_ format.
+* `REPOS_validation.pkl`: Containing validation set repositories with _(repository_name, label)_ format.
+* `REPOS_test.pkl`: Containing test set repositories with _(repository_name, label)_ format.
