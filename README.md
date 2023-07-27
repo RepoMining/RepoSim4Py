@@ -96,7 +96,7 @@ The output of the script is a python pickle file `<output_dir>/output.pkl` which
 including name, topics, license, stars, extracted `codes/docstrings/requirements/readmes` list, embeddings corresponding to extracted information, mean embedding corresponding to extracted information, as well as the repo-level mean embedding. 
 This file can be used for later experiments such as semantic similarity calculation/comparison.
 
-When `--eval` is specified, the script will also save a csv file with 7 columns: `repo1`, `repo2`, `code_sim`, `doc_sim`, `requirement_sim`, `readme_sim`, and `repo_sim`, 
+When `--eval` is specified, the script will also save a csv file with 9 columns: `repo1`, `repo2`, `topics1`, `topics2`, `code_sim`, `doc_sim`, `requirement_sim`, `readme_sim`, and `repo_sim`, 
 representing two repositories and their similarity scores in terms of different-level mean embeddings. This file will compare each pair of repositories in the input list and save the results at `<output_dir>/evaluation_result.csv`.
 
 
