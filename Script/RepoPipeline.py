@@ -1,8 +1,5 @@
-"""
-This file describes the implementation of custom Pipeline.
-"""
-
 from typing import Dict, Any, List
+
 import ast
 import tarfile
 import torch
@@ -283,7 +280,7 @@ class RepoPipeline(Pipeline):
             if not text_sets \
             else torch.cat([self.encode(text, max_length) for text in text_sets], dim=0)
 
-    def _forward(self, extracted_infos: List, max_length=512) -> List:
+    def _forward(self, extracted_infos: List, max_length=512, st_progress=None) -> List:
         """
         The method for "forward" period.
         :param extracted_infos: the information of repositories.
@@ -292,8 +289,9 @@ class RepoPipeline(Pipeline):
         """
         model_outputs = []
         # The number of repository.
-        num_repos = len(extracted_infos)
-        with tqdm(total=num_repos) as progress_bar:
+        num_texts = sum(
+            len(x["codes"]) + len(x["docs"]) + len(x["requirements"]) + len(x["readmes"]) for x in extracted_infos)
+        with tqdm(total=num_texts) as progress_bar:
             # For each repository
             for repo_info in extracted_infos:
                 repo_name = repo_info["name"]
@@ -310,12 +308,18 @@ class RepoPipeline(Pipeline):
                 code_embeddings = self.generate_embeddings(repo_info["codes"], max_length)
                 info["code_embeddings"] = code_embeddings.cpu().numpy()
                 info["mean_code_embedding"] = torch.mean(code_embeddings, dim=0, keepdim=True).cpu().numpy()
+                progress_bar.update(len(repo_info["codes"]))
+                if st_progress:
+                    st_progress.progress(progress_bar.n / progress_bar.total)
 
                 # Doc embeddings
                 tqdm.write(f"[*] Generating doc embeddings for {repo_name}")
                 doc_embeddings = self.generate_embeddings(repo_info["docs"], max_length)
                 info["doc_embeddings"] = doc_embeddings.cpu().numpy()
                 info["mean_doc_embedding"] = torch.mean(doc_embeddings, dim=0, keepdim=True).cpu().numpy()
+                progress_bar.update(len(repo_info["docs"]))
+                if st_progress:
+                    st_progress.progress(progress_bar.n / progress_bar.total)
 
                 # Requirement embeddings
                 tqdm.write(f"[*] Generating requirement embeddings for {repo_name}")
@@ -323,12 +327,18 @@ class RepoPipeline(Pipeline):
                 info["requirement_embeddings"] = requirement_embeddings.cpu().numpy()
                 info["mean_requirement_embedding"] = torch.mean(requirement_embeddings, dim=0,
                                                                 keepdim=True).cpu().numpy()
+                progress_bar.update(len(repo_info["requirements"]))
+                if st_progress:
+                    st_progress.progress(progress_bar.n / progress_bar.total)
 
                 # Readme embeddings
                 tqdm.write(f"[*] Generating readme embeddings for {repo_name}")
                 readme_embeddings = self.generate_embeddings(repo_info["readmes"], max_length)
                 info["readme_embeddings"] = readme_embeddings.cpu().numpy()
                 info["mean_readme_embedding"] = torch.mean(readme_embeddings, dim=0, keepdim=True).cpu().numpy()
+                progress_bar.update(len(repo_info["readmes"]))
+                if st_progress:
+                    st_progress.progress(progress_bar.n / progress_bar.total)
 
                 # Repo-level mean embedding
                 info["mean_repo_embedding"] = np.concatenate([
@@ -348,7 +358,6 @@ class RepoPipeline(Pipeline):
                 info["mean_readme_embedding_shape"] = info["mean_readme_embedding"].shape
                 info["mean_repo_embedding_shape"] = info["mean_repo_embedding"].shape
 
-                progress_bar.update(1)
                 model_outputs.append(info)
 
         return model_outputs
