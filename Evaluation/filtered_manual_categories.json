@@ -1,0 +1,579 @@
+{
+    "Admin Panels": [
+        "ajenti/ajenti",
+        "geex-arts/django-jet",
+        "sshwsfc/xadmin",
+        "flask-admin/flask-admin",
+        "mher/flower",
+        "jet-admin/jet-bridge",
+        "wooey/wooey"
+    ],
+    "Algorithms and Desing Patterns": [
+        "keon/algorithms",
+        "prabhupant/python-ds",
+        "grantjenks/python-sortedcontainers",
+        "TheAlgorithms/Python",
+        "tylerlaberge/PyPattyrn",
+        "faif/python-patterns",
+        "pytransitions/transitions"
+    ],
+    "ASGI Servers": [
+        "django/daphne",
+        "encode/uvicorn"
+    ],
+    "Asynchronous Programming": [
+        "python-trio/trio",
+        "MagicStack/uvloop"
+    ],
+    "Audio": [
+        "beetbox/audioread",
+        "worldveil/dejavu",
+        "keunwoochoi/kapre",
+        "librosa/librosa",
+        "sergree/matchering",
+        "tyiannak/pyAudioAnalysis",
+        "jiaaro/pydub",
+        "Parisson/TimeSide",
+        "beetbox/beets",
+        "nicfit/eyeD3",
+        "devsnd/tinytag"
+    ],
+    "Authentication": [
+        "lepture/authlib",
+        "pennersr/django-allauth",
+        "evonove/django-oauth-toolkit",
+        "idan/oauthlib",
+        "joestump/python-oauth2",
+        "omab/python-social-auth",
+        "jpadilla/pyjwt",
+        "davedoesdev/python-jwt"
+    ],
+    "Build Tools": [
+        "platformio/platformio-core",
+        "pybuilder/pybuilder"
+    ],
+    "Built-in Classes Enhancement": [
+        "python-attrs/attrs",
+        "jab/bidict",
+        "cdgriffith/Box",
+        "carlosescri/DottedDict"
+    ],
+    "CMS": [
+        "feincms/feincms",
+        "indico/indico",
+        "Kotti/Kotti",
+        "stephenmcd/mezzanine",
+        "rochacbruno/quokka"
+    ],
+    "Caching": [
+        "bbangert/beaker",
+        "django-cache-machine/django-cache-machine",
+        "Suor/django-cacheops",
+        "lericson/pylibmc"
+    ],
+    "Code Analysis": [
+        "scottrogowski/code2flow",
+        "PyCQA/prospector",
+        "gak/pycallgraph",
+        "jendrikseipp/vulture",
+        "klen/pylama",
+        "wemake-services/wemake-python-styleguide",
+        "python/black",
+        "timothycrosley/isort",
+        "google/yapf",
+        "facebook/pyre-check",
+        "python/typeshed",
+        "Instagram/MonkeyType",
+        "google/pytype"
+    ],
+    "Command-line Interface Development": [
+        "google/python-fire",
+        "jonathanslenders/python-prompt-toolkit",
+        "rsalmei/alive-progress",
+        "peterbrittain/asciimatics",
+        "glamp/bashplotlib",
+        "willmcgugan/rich",
+        "tqdm/tqdm"
+    ],
+    "Command-line Tools": [
+        "pykong/copier",
+        "audreyr/cookiecutter",
+        "sloria/doitlive",
+        "gleitz/howdoi",
+        "pyinvoke/invoke",
+        "facebook/PathPicker",
+        "mooz/percol",
+        "nvbn/thefuck",
+        "timofurrer/try",
+        "jakubroztocil/httpie",
+        "laixintao/iredis",
+        "cloudnativelabs/kube-shell",
+        "dbcli/litecli",
+        "dbcli/pgcli",
+        "aws/aws-cli"
+    ],
+    "Computer Vision": [
+        "JaidedAI/EasyOCR",
+        "ageitgey/face_recognition",
+        "sightmachine/SimpleCV",
+        "sirfz/tesserocr"
+    ],
+    "Concurrency and Parallelism": [
+        "python-greenlet/greenlet",
+        "soravux/scoop"
+    ],
+    "Configuration": [
+        "DiffSK/configobj",
+        "facebookresearch/hydra",
+        "henriquebastos/python-decouple"
+    ],
+    "Cryptography": [
+        "paramiko/paramiko",
+        "pyca/pynacl"
+    ],
+    "Data Analysis": [
+        "awslabs/aws-data-wrangler",
+        "blaze/blaze",
+        "mining/mining",
+        "ironmussa/Optimus"
+    ],
+    "Data Validation": [
+        "Julian/jsonschema",
+        "keleshev/schema",
+        "schematics/schematics",
+        "podio/valideer",
+        "alecthomas/voluptuous"
+    ],
+    "Data Visualization": [
+        "altair-viz/altair",
+        "bokeh/bokeh",
+        "bloomberg/bqplot",
+        "SciTools/cartopy",
+        "mingrammer/diagrams",
+        "mwaskom/seaborn",
+        "vispy/vispy"
+    ],
+    "Database Drivers": [
+        "mymarilyn/clickhouse-driver",
+        "PyMySQL/mysqlclient-python",
+        "PyMySQL/PyMySQL",
+        "gmr/queries",
+        "rogerbinns/apsw",
+        "stephenmcd/hot-redis",
+        "MongoEngine/mongoengine",
+        "pynamodb/PynamoDB",
+        "kiddouk/redisco",
+        "mongodb/motor",
+        "patx/pickledb",
+        "msiemens/tinydb",
+        "zopefoundation/ZODB"
+    ],
+    "Date and Time": [
+        "KoffeinFlummi/Chronyk",
+        "dateutil/dateutil",
+        "timofurrer/maya",
+        "zachwill/moment",
+        "sdispater/pendulum",
+        "shinux/PyTime",
+        "dirn/When.py"
+    ],
+    "Debugging Tools": [
+        "gotcha/ipdb",
+        "antocuni/pdb",
+        "inducer/pudb",
+        "khamidou/lptrace",
+        "ionelmc/python-manhole",
+        "google/pyringe",
+        "ionelmc/python-hunter",
+        "rkern/line_profiler",
+        "fabianp/memory_profiler",
+        "benfred/py-spy",
+        "uber/pyflame",
+        "nvdv/vprof",
+        "mailgun/flanker",
+        "marrow/mailer"
+    ],
+    "Deep Learning": [
+        "BVLC/caffe",
+        "keras-team/keras",
+        "dmlc/mxnet",
+        "SerpentAI/SerpentAI",
+        "Theano/Theano"
+    ],
+    "DevOps Tools": [
+        "ansible/ansible",
+        "Fizzadar/pyinfra",
+        "saltstack/salt",
+        "sebastien/cuisine",
+        "fabric/fabric",
+        "fabtools/fabtools",
+        "Supervisor/supervisor",
+        "giampaolo/psutil"
+    ],
+    "Distributed Computing": [
+        "dask/dask",
+        "spotify/luigi",
+        "Yelp/mrjob",
+        "robinhood/faust",
+        "Parsely/streamparse",
+        "spotify/dh-virtualenv",
+        "linkedin/shiv"
+    ],
+    "Documentation": [
+        "mitmproxy/pdoc",
+        "pycco-docs/pycco"
+    ],
+    "Downloader": [
+        "jindaxiang/akshare",
+        "s3tools/s3cmd",
+        "bloomreach/s4cmd"
+    ],
+    "E-commerce": [
+        "lxneng/alipay",
+        "awesto/django-shop",
+        "MicroPyramid/forex-python",
+        "agiliq/merchant",
+        "carlospalol/money",
+        "Alir3z4/python-currencies"
+    ],
+    "Editor Plugins and Ides": [
+        "jorgenschaefer/elpy",
+        "DamnWidget/anaconda",
+        "srusskih/SublimeJEDI",
+        "davidhalter/jedi-vim",
+        "davidhalter/jedi",
+        "Microsoft/PTVS",
+        "spyder-ide/spyder"
+    ],
+    "Email": [
+        "modoboa/modoboa",
+        "moggers87/salmon",
+        "martinrusev/imbox",
+        "kootenpv/yagmail"
+    ],
+    "Environment Management": [
+        "pyenv/pyenv",
+        "pypa/virtualenv"
+    ],
+    "Files": [
+        "jaraco/path.py",
+        "pyfilesystem/pyfilesystem2",
+        "ahupp/python-magic",
+        "mikeorr/Unipath",
+        "gorakhargosh/watchdog"
+    ],
+    "Forms": [
+        "Pylons/deform",
+        "dyve/django-bootstrap3",
+        "zostera/django-bootstrap4",
+        "django-crispy-forms/django-crispy-forms",
+        "WiserTogether/django-remote-forms",
+        "wtforms/wtforms"
+    ],
+    "Functional Programming": [
+        "evhub/coconut",
+        "Suor/funcy",
+        "erikrose/more-itertools",
+        "pytoolz/toolz"
+    ],
+    "GUI Development": [
+        "ChrisKnott/Eel",
+        "nucleic/enaml",
+        "zoofIO/flexx",
+        "chriskiehl/Gooey",
+        "pyglet/pyglet",
+        "PySimpleGUI/PySimpleGUI",
+        "pybee/toga"
+    ],
+    "Geolocation": [
+        "SmileyChris/django-countries",
+        "maxmind/geoip-api-python",
+        "frewsxcv/python-geojson",
+        "geopy/geopy"
+    ],
+    "HTML Manipulation": [
+        "mozilla/bleach",
+        "html5lib/html5lib-python",
+        "pallets/markupsafe",
+        "gawel/pyquery",
+        "stchris/untangle",
+        "martinblech/xmltodict"
+    ],
+    "HTTP Clients": [
+        "spyoungtech/grequests",
+        "httplib2/httplib2",
+        "encode/httpx",
+        "psf/requests",
+        "twisted/treq",
+        "shazow/urllib3"
+    ],
+    "Hardware": [
+        "boppreh/keyboard",
+        "boppreh/mouse",
+        "SavinaRoja/PyUserInput",
+        "secdev/scapy"
+    ],
+    "Image Processing": [
+        "rossgoodwin/hmap",
+        "hhatto/nude.py",
+        "daboth/pagan",
+        "python-pillow/Pillow",
+        "WhyNotHugo/python-barcode",
+        "lincolnloop/python-qrcode",
+        "dylanaraps/pywal",
+        "libvips/pyvips",
+        "fogleman/Quads",
+        "thumbor/thumbor",
+        "dahlia/wand"
+    ],
+    "Implementations": [
+        "metawilm/cl-python",
+        "Maratyszcza/PeachPy",
+        "Microsoft/Pyjion"
+    ],
+    "Job Scheduler": [
+        "thauber/django-schedule",
+        "gunnery/gunnery",
+        "fengsp/plan",
+        "PrefectHQ/prefect",
+        "dbader/schedule",
+        "knipknap/SpiffWorkflow"
+    ],
+    "Logging": [
+        "Delgan/loguru",
+        "getsentry/sentry-python"
+    ],
+    "Machine Learning": [
+        "openai/gym",
+        "h2oai/h2o-3",
+        "benhamner/Metrics",
+        "dmlc/xgboost",
+        "mindsdb/mindsdb"
+    ],
+    "Miscellaneous": [
+        "jek/blinker",
+        "mahmoud/boltons",
+        "pallets/itsdangerous",
+        "magenta/magenta",
+        "mitsuhiko/pluginbase"
+    ],
+    "Natural Language Processing": [
+        "saffsd/langid.py",
+        "clips/pattern",
+        "facebookresearch/pytext",
+        "PetrochukM/PyTorch-NLP",
+        "stanfordnlp/stanza",
+        "fxsjy/jieba",
+        "lancopku/pkuseg-python",
+        "isnowfy/snownlp"
+    ],
+    "Network Virtualization": [
+        "mininet/mininet",
+        "napalm-automation/napalm",
+        "noxrepo/pox"
+    ],
+    "News Feed": [
+        "justquick/django-activity-stream",
+        "tschellenbach/Stream-Framework"
+    ],
+    "ORM": [
+        "dahlia/awesome-sqlalchemy",
+        "sdispater/orator",
+        "encode/orm",
+        "coleifer/peewee"
+    ],
+    "Package Management": [
+        "jazzband/pip-tools",
+        "sdispater/poetry"
+    ],
+    "Package Repositories": [
+        "devpi/devpi",
+        "jazzband/localshop"
+    ],
+    "Penetration Testing": [
+        "Manisso/fsociety",
+        "sqlmapproject/sqlmap"
+    ],
+    "Permissions": [
+        "django-guardian/django-guardian",
+        "dfunckt/django-rules"
+    ],
+    "Processes": [
+        "amitt001/delegator.py",
+        "amoffat/sh"
+    ],
+    "Recommender Systems": [
+        "spotify/annoy",
+        "ibayer/fastFM",
+        "benfred/implicit",
+        "maciejkula/spotlight",
+        "NicolasHug/Surprise",
+        "jfkirk/tensorrec"
+    ],
+    "RESful API": [
+        "django/django",
+        "pyeve/eve",
+        "flask-api/flask-api",
+        "flask-restful/flask-restful",
+        "Cornices/cornice",
+        "encode/apistar",
+        "falconry/falcon",
+        "tiangolo/fastapi",
+        "hugapi/hug",
+        "jeffknupp/sandman2",
+        "huge-success/sanic"
+    ],
+    "RPC Servers": [
+        "tomerfiliba/rpyc",
+        "0rpc/zerorpc-python"
+    ],
+    "Science": [
+        "chapmanb/bcbio-nextgen",
+        "chapmanb/bcbb",
+        "benedekrozemberczki/karateclub",
+        "pymc-devs/pymc3",
+        "statsmodels/statsmodels",
+        "sympy/sympy",
+        "quantopian/zipline"
+    ],
+    "Search": [
+        "django-haystack/django-haystack",
+        "elastic/elasticsearch-dsl-py",
+        "django-haystack/pysolr"
+    ],
+    "Serialization": [
+        "marshmallow-code/marshmallow",
+        "lemire/simdjson",
+        "esnme/ultrajson"
+    ],
+    "Serverless Frameworks": [
+        "nficano/python-lambda",
+        "Miserlou/Zappa"
+    ],
+    "Specific Formats Processing": [
+        "chardet/chardet",
+        "LuminosoInsight/python-ftfy",
+        "seatgeek/fuzzywuzzy",
+        "vinta/pangu.py",
+        "pwaller/pyfiglet",
+        "mozillazg/python-pinyin",
+        "orsinium/textdistance",
+        "elapouya/python-docx-template",
+        "pyexcel/pyexcel",
+        "python-openxml/python-docx",
+        "scanny/python-pptx",
+        "unoconv/unoconv",
+        "jmcnamara/XlsxWriter",
+        "ZoomerAnalytics/xlwings",
+        "python-excel/xlrd",
+        "euske/pdfminer",
+        "mstamy2/PyPDF2",
+        "lepture/mistune",
+        "waylan/Python-Markdown",
+        "wireservice/csvkit",
+        "mitsuhiko/unp"
+    ],
+    "Static Site Generator": [
+        "lektor/lektor",
+        "sunainapai/makesite",
+        "getnikola/nikola",
+        "getpelican/pelican"
+    ],
+    "Task Queues": [
+        "Bogdanp/dramatiq",
+        "coleifer/huey",
+        "pricingassistant/mrq",
+        "rq/rq"
+    ],
+    "Testing": [
+        "HypothesisWorks/hypothesis",
+        "nose-devs/nose2",
+        "robotframework/robotframework",
+        "CleanCut/green",
+        "locustio/locust",
+        "asweigart/pyautogui",
+        "kiwicom/schemathesis",
+        "seatgeek/sixpack",
+        "cobrateam/splinter",
+        "spulec/freezegun",
+        "patrys/httmock",
+        "gabrielfalcao/HTTPretty",
+        "mindflayer/python-mocket",
+        "getsentry/responses",
+        "kevin1024/vcrpy",
+        "FactoryBoy/factory_boy",
+        "klen/mixer",
+        "vandersonmota/model_mommy",
+        "emirozer/fake2db",
+        "joke2k/faker",
+        "lk-geimfari/mimesis"
+    ],
+    "Text Processing": [
+        "dimka665/awesome-slugify",
+        "un33k/python-slugify",
+        "mozilla/unicode-slugify",
+        "davidaurelio/hashids-python",
+        "skorokithakis/shortuuid",
+        "dabeaz/ply",
+        "pyparsing/pyparsing",
+        "derek73/python-nameparser",
+        "daviddrysdale/python-phonenumbers",
+        "selwin/python-user-agents",
+        "andialbrecht/sqlparse"
+    ],
+    "Third-party APIs": [
+        "boto/boto3",
+        "istrategylabs/django-wordpress",
+        "mobolic/facebook-sdk",
+        "google/google-api-python-client",
+        "burnash/gspread",
+        "ryanmcgrath/twython"
+    ],
+    "URL Manipulation": [
+        "gruns/furl",
+        "codeinthehole/purl",
+        "ellisonleao/pyshorteners",
+        "marshmallow-code/webargs"
+    ],
+    "Video": [
+        "aizvorski/scikit-video",
+        "abhiTronix/vidgear"
+    ],
+    "Web Asset Management": [
+        "django-compressor/django-compressor",
+        "jazzband/django-pipeline",
+        "jschneier/django-storages",
+        "miracle2k/flask-assets",
+        "miracle2k/webassets"
+    ],
+    "Web Content Extracting": [
+        "Alir3z4/html2text",
+        "michaelhelmick/lassie",
+        "coleifer/micawber",
+        "codelucas/newspaper",
+        "buriy/python-readability",
+        "psf/requests-html",
+        "miso-belica/sumy",
+        "deanmalmgren/textract",
+        "gaojiuli/toapi"
+    ],
+    "Web Crawling": [
+        "chineking/cola",
+        "lorien/grab",
+        "MechanicalSoup/MechanicalSoup",
+        "scrapinghub/portia",
+        "binux/pyspider",
+        "jmcarp/robobrowser"
+    ],
+    "WebSocket": [
+        "crossbario/autobahn-python",
+        "django/channels",
+        "aaugustin/websockets"
+    ],
+    "WSGI Servers": [
+        "jonashaag/bjoern",
+        "benoitc/gunicorn",
+        "Pylons/waitress",
+        "pallets/werkzeug"
+    ]
+}
